@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Lobules/12.14 Typescript.md",
+                "file": "200 Neurons/22.14 Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.14 Typescript"
+              "title": "22.14 Interfaces"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "b1f3b5f1982867a4",
@@ -170,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 Lobules/12.14 Typescript.md",
+                "file": "200 Neurons/22.14 Interfaces.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 12.14 Typescript"
+              "title": "Graph of 22.14 Interfaces"
             }
           }
         ]
@@ -225,9 +226,18 @@
   },
   "active": "91d01a46725cf433",
   "lastOpenFiles": [
+    "100 Lobules/12.14 Typescript.md",
+    "200 Neurons/22.14 Interfaces.md",
+    "200 Neurons/22.14 Function types.md",
+    "200 Neurons/22.14 Functions overloads.md",
+    "900 Attatchments/Images/Pasted image 20250128144935.png",
+    "200 Neurons/23.2 Functions overloads.md",
+    "200 Neurons/22.14 Arrow functions.md",
+    "200 Neurons/22.14 Annotate functions - optional, default and rest parameters.md",
+    "900 Attatchments/Images/Pasted image 20250128142112.png",
+    "900 Attatchments/Images/Pasted image 20250128142045.png",
     "MySecondBrain",
     "200 Neurons/22.14  Arrays.md",
-    "100 Lobules/12.14 Typescript.md",
     "200 Neurons/22.14 Null checks.md",
     "900 Attatchments/Images/Pasted image 20250128130646.png",
     "200 Neurons/22.14  Union types.md",
@@ -243,24 +253,16 @@
     "900 Attatchments/Images/Pasted image 20250128112044.png",
     "900 Attatchments/Images/Pasted image 20250128112027.png",
     "900 Attatchments/Images/Pasted image 20250128112004.png",
-    "900 Attatchments/Images/Pasted image 20250128111900.png",
-    "900 Attatchments/Images/Pasted image 20250128111811.png",
     "200 Neurons/23.9 Authorization policies.md",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
     "200 Neurons/23.9 Requiring and validation a token.md",
     "200 Neurons/23.9 Using information from the token in a controller.md",
-    "900 Attatchments/Images/Pasted image 20250128111154.png",
     "200 Neurons/23.9 Creating a token.md",
     "200 Neurons/23.9 Token-based security.md",
     "100 Lobules/13.8 ASP.NET Core.md",
     "900 Attatchments/901 Templates/23.8 .NET.md",
     "900 Attatchments/901 Templates/23.7 C Sharp.md",
     "200 Neurons/23.8 About MVC.md",
-    "200 Neurons/23.9 About routing.md",
-    "900 Attatchments/901 Templates/23.9 Web API.md",
-    "200 Neurons/23.9 Returning pagination metadata.md",
-    "200 Neurons/23.9 Paging results.md",
-    "200 Neurons/23.9 Deferred execution.md",
     "Tracker.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
@@ -276,7 +278,6 @@
     "900 Attatchments/Images",
     "900 Attatchments/Images/Untitled 1 1.canvas",
     "800 Books/Untitled",
-    "Journal",
     "900 Attatchments/Images/Untitled 2.canvas"
   ]
 }
