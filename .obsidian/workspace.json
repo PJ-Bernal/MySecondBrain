@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/22.14 Interfaces.md",
+                "file": "200 Neurons/23.9 About versioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.14 Interfaces"
+              "title": "23.9 About versioning"
             }
           }
         ]
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Neurons/22.14 Interfaces.md",
+                "file": "200 Neurons/23.9 About versioning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 22.14 Interfaces"
+              "title": "Graph of 23.9 About versioning"
             }
           }
         ]
@@ -226,8 +226,12 @@
   },
   "active": "91d01a46725cf433",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250128162636.png",
+    "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 About versioning.md",
+    "100 Lobules/12.14 Typescript.md",
+    "200 Neurons/22.14 Inference - literal vs wide - types of variables.md",
     "200 Neurons/22.14 Interfaces.md",
+    "900 Attatchments/Images/Pasted image 20250128162636.png",
     "900 Attatchments/Images/Pasted image 20250128161040.png",
     "900 Attatchments/Images/Pasted image 20250128161024.png",
     "900 Attatchments/Images/Pasted image 20250128161000.png",
@@ -236,7 +240,6 @@
     "900 Attatchments/Images/Pasted image 20250128155037.png",
     "900 Attatchments/Images/Pasted image 20250128155017.png",
     "900 Attatchments/Images/Pasted image 20250128154855.png",
-    "100 Lobules/12.14 Typescript.md",
     "200 Neurons/22.14 Function types.md",
     "200 Neurons/22.14 Functions overloads.md",
     "900 Attatchments/Images/Pasted image 20250128144935.png",
@@ -254,14 +257,12 @@
     "200 Neurons/23.9 OAuth2 and OpenId.md",
     "200 Neurons/23.9 Getting a token with .NET user-jwts.md",
     "200 Neurons/23.9 Authorization policies.md",
-    "100 Lobules/13.9 ASP.NET Core Web API.md",
     "200 Neurons/23.9 Requiring and validation a token.md",
     "200 Neurons/23.9 Using information from the token in a controller.md",
     "200 Neurons/23.9 Creating a token.md",
     "200 Neurons/23.9 Token-based security.md",
     "100 Lobules/13.8 ASP.NET Core.md",
     "900 Attatchments/901 Templates/23.8 .NET.md",
-    "900 Attatchments/901 Templates/23.7 C Sharp.md",
     "Tracker.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
