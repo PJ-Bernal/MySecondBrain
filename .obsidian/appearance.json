@@ -1,0 +1,20 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "reading_mode",
+    "sidenotes",
+    "custom-admonitions.d42075",
+    "custom-admonitions.4b9213",
+    "hideheader",
+    "center-image",
+    "NoTitleEmbed",
+    "multi_column",
+    "extended-colorschemes"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": false
+}

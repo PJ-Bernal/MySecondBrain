@@ -1,0 +1,125 @@
+100 Lobules/10 MM.md
+100 Lobules/10 MM.md#Daily check
+100 Lobules/10 MM.md#Questions
+100 Lobules/10 MM.md#Recommendations
+100 Lobules/10 MM.md#Table of content
+100 Lobules/10 MM.md#To-do
+100 Lobules/11 Obsidian.md
+100 Lobules/11 Obsidian.md#Table of content
+100 Lobules/11 Obsidian.md#Table of content#Topic table
+100 Lobules/11.1 Basics.md
+100 Lobules/11.1 Basics.md#Table of content
+100 Lobules/11.1 Basics.md#Table of content#Content
+100 Lobules/11.2 Plugins.md
+100 Lobules/11.2.1 Templater.md
+100 Lobules/11.2.1 Templater.md#Table of content
+100 Lobules/11.2.1 Templater.md#Table of content#Refences
+100 Lobules/11.2.1 Templater.md#Table of content#Terminology
+100 Lobules/11.2.2 Dataview.md
+100 Lobules/11.2.2 Dataview.md#Table of content
+100 Lobules/11.2.2 Dataview.md#Table of content#Questions
+100 Lobules/11.2.2 Dataview.md#Table of content#Refences
+100 Lobules/11.3 Vault maintenance.md
+100 Lobules/11.3 Vault maintenance.md#Table of content
+100 Lobules/11.3 Vault maintenance.md#Table of content#Key words
+100 Lobules/11.3 Vault maintenance.md#Table of content#Refences
+100 Lobules/12 Web Dev.md
+100 Lobules/12 Web Dev.md#Table of content
+100 Lobules/12 Web Dev.md#Table of content#The internet#HTTP
+100 Lobules/12 Web Dev.md#Table of content#The internet#How the web works?
+100 Lobules/12.1 Guidelines.md
+100 Lobules/12.2 The internet.md
+100 Lobules/12.2 The internet.md#Table of content#HTTP
+100 Lobules/12.2 The internet.md#Table of content#How Does the Web Work?
+100 Lobules/12.2.1 HTTP.md
+100 Lobules/12.2.1 HTTP.md#Table of content
+100 Lobules/12.2.1 HTTP.md#Table of content#Statelessness of HTTP
+100 Lobules/19 Articles.md
+100 Lobules/19.1 Productivity.md
+200 Neurons/21.1 Embed links.md
+200 Neurons/21.1 Footnote.md
+200 Neurons/21.1 Links.md
+200 Neurons/21.1 Text formatting.md
+200 Neurons/21.2.1 Internal functions.md
+200 Neurons/21.2.1 Internal functions.md#Config Module
+200 Neurons/21.2.1 Internal functions.md#Date module
+200 Neurons/21.2.1 Internal functions.md#File module
+200 Neurons/21.2.1 Internal functions.md#Frontmatter module
+200 Neurons/21.2.1 Internal functions.md#System module
+200 Neurons/21.2.1 Syntax.md
+200 Neurons/21.2.1 Syntax.md#Command syntax
+200 Neurons/21.2.1 Syntax.md#Function syntax#Objects hierarchy
+200 Neurons/21.2.2 Data types.md
+200 Neurons/21.2.2 Data types.md#Available data types#Date
+200 Neurons/21.2.2 Data types.md#Available data types#Duration
+200 Neurons/21.2.2 Data types.md#Available data types#Links
+200 Neurons/21.2.2 Data types.md#Available data types#Lists
+200 Neurons/21.2.2 Data types.md#Available data types#Object
+200 Neurons/21.2.2 Data types.md#Available data types#Text
+200 Neurons/21.2.2 Data types.md#Why does the type matter?
+200 Neurons/21.2.2 Metadata.md
+200 Neurons/21.2.2 Metadata.md#Adding metadata to my notes
+200 Neurons/21.2.2 Metadata.md#Adding metadata to my notes#Field names
+200 Neurons/21.2.2 Metadata.md#Adding metadata to my notes#How to add fields
+200 Neurons/21.2.2 Metadata.md#Adding metadata to my notes#How to add fields#Frontmatter
+200 Neurons/21.2.2 Metadata.md#Adding metadata to my notes#How to add fields#Inline
+200 Neurons/21.2.2 Metadata.md#Adding metadata to my notes#Implicit fields
+200 Neurons/21.2.2 Overview.md
+200 Neurons/21.2.2 Overview.md#How to use Dataview?
+200 Neurons/21.2.2 Overview.md#How to use Dataview?#Data indexing
+200 Neurons/21.2.2 Overview.md#How to use Dataview?#Data querying
+200 Neurons/21.3.1 Notes maintenance.md
+200 Neurons/21.3.1 Notes maintenance.md#For atomic notes
+200 Neurons/21.3.1 Notes maintenance.md#For atomic notes#Notes that 'belong' to two mocs or mn
+200 Neurons/21.3.1 Notes maintenance.md#Notes showdown#Atomic notes
+200 Neurons/21.3.1 Notes maintenance.md#Notes showdown#Big note
+200 Neurons/21.3.1 Notes maintenance.md#Notes showdown#MOCS
+200 Neurons/21.3.1 Notes maintenance.md#Notes showdown#Mother note
+200 Neurons/22.1.1 The Odin Project guidelines.md
+200 Neurons/22.1.1 The Odin Project guidelines.md#Asking for help
+200 Neurons/22.1.1 The Odin Project guidelines.md#Asking for help#Appl the rubber duck debugging
+200 Neurons/22.1.1 The Odin Project guidelines.md#Asking for help#Prepare my question
+200 Neurons/22.1.1 The Odin Project guidelines.md#Asking for help#Tips to get the best help possible
+200 Neurons/22.1.1 The Odin Project guidelines.md#How TOP works?
+200 Neurons/22.1.1 The Odin Project guidelines.md#Motivation and mindset
+200 Neurons/22.1.1 The Odin Project guidelines.md#Why TOP?
+200 Neurons/22.2 Domain name system.md
+200 Neurons/22.2 Domain name system.md#A simplify DNS request process
+200 Neurons/22.2 Domain name system.md#DNS Refreshing
+200 Neurons/22.2 Domain name system.md#Structure of domains
+200 Neurons/22.2 Domain name system.md#Structure of domains#Label
+200 Neurons/22.2 Domain name system.md#Structure of domains#TLD
+200 Neurons/22.2 Domain name system.md#What is a DNS?
+200 Neurons/22.2 How does the internet work.md
+200 Neurons/22.2 How does the internet work.md#A network of networks
+200 Neurons/22.2 How does the internet work.md#A simple network
+200 Neurons/22.2 How does the internet work.md#Browsers and search engine
+200 Neurons/22.2 How does the internet work.md#IP address
+200 Neurons/22.2 How does the internet work.md#Internet and the web
+200 Neurons/22.2 How does the internet work.md#Web page
+200 Neurons/22.2 How does the internet work.md#Web server
+200 Neurons/22.2 How does the internet work.md#Website
+200 Neurons/22.2 How the web works.md
+200 Neurons/22.2 How the web works.md#Clients and servers
+200 Neurons/22.2 How the web works.md#Order in which component files are parsed
+200 Neurons/22.2 How the web works.md#The other components
+200 Neurons/22.2 How the web works.md#What happened exactly?
+200 Neurons/22.2 How to start to design a website.md
+200 Neurons/22.2 How to start to design a website.md#How could a website bring me to my goals?
+200 Neurons/22.2 How to start to design a website.md#Summary
+200 Neurons/22.2 How to start to design a website.md#What exactly do I want to accomplish?
+200 Neurons/22.2 How to start to design a website.md#What needs to be done and in what order to reach my goals?
+200 Neurons/22.2.1 What is a URL.md
+200 Neurons/22.2.1 What is a URL.md#URL components
+200 Neurons/22.2.1 What is a URL.md#URL components#Example of URL components
+200 Neurons/22.2.1 What is a URL.md#URL components#Queries limitations
+200 Neurons/22.2.1 What is a URL.md#URL encoding
+200 Neurons/22.2.1 What is a URL.md#URL encoding#Characters must be encoded if
+200 Neurons/29.1.1 Learning to code when it gets dark.md
+200 Neurons/29.1.1 Learning to code when it gets dark.md#Summary#Every day counts
+200 Neurons/29.1.1 Learning to code when it gets dark.md#Summary#Go all in
+200 Neurons/29.1.1 Learning to code when it gets dark.md#Summary#Realize that everyone experience resistance.
+900 Attatchments/901 Templates/MN.md
+900 Attatchments/901 Templates/Neuron.md
+900 Attatchments/901 Templates/Prueba 2.md
+900 Attatchments/901 Templates/prueba.md

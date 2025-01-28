@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "mn": "multitext",
+    "review": "checkbox",
+    "topics": "multitext",
+    "resource": "multitext",
+    "checked": "checkbox",
+    "resources": "multitext"
+  }
+}

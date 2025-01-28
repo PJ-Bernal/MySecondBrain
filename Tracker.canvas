@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"f21b2d7911450abc","type":"text","text":"```tracker\nsearchType: task.done\nsearchTarget: Reading\nfolder: 300 Journal\nmonth:\nsummary:\n    template: \"How many days I said: {{sum()}}\" \n```","x":-520,"y":-80,"width":460,"height":300}
+	],
+	"edges":[]
+}

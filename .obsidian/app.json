@@ -1,0 +1,21 @@
+{
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "propertiesInDocument": "source",
+  "foldHeading": true,
+  "attachmentFolderPath": "900 Attatchments/Images",
+  "vimMode": false,
+  "autoConvertHtml": false,
+  "focusNewTab": true,
+  "showIndentGuide": true,
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "spellcheckDictionary": [
+    "Gio",
+    "Emmet",
+    "postgreSQL"
+  ],
+  "promptDelete": false
+}

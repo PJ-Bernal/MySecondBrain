@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiBrandNodejs",
+      "RiReactjsLine",
+      "BoBxlReact",
+      "BoBxlDocker",
+      "BoBxlPhp"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "100 Lobules": "FasBrain",
+  "200 Neurons": "TiPlugConnected",
+  "800 Books": "TiBook",
+  "900 Attatchments": "RiAttachment2",
+  "100 Lobules/12.5 Javascript.md": "RiJavascriptFill",
+  "100 Lobules/12.6 Git and Github.md": "LiGithub",
+  "100 Lobules/12.7 HTML and CSS.md": "RiHtml5Fill",
+  "100 Lobules/12.8 PHP.md": "BoBxlPhp",
+  "100 Lobules/12.10 Docker.md": "BoBxlDocker",
+  "100 Lobules/12.12 React.md": "RiReactjsLine",
+  "100 Lobules/12.13 Node.md": "TiBrandNodejs"
+}
