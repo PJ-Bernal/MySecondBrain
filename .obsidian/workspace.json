@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 About versioning.md",
+                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 About versioning"
+              "title": "13.9 ASP.NET Core Web API"
+            }
+          },
+          {
+            "id": "14bfa49d0f548864",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "8c989f800447f04e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +65,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Neurons/23.9 About versioning.md",
+                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +226,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 23.9 About versioning"
+              "title": "Graph of 13.9 ASP.NET Core Web API"
             }
           }
         ]
@@ -224,9 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91d01a46725cf433",
+  "active": "14bfa49d0f548864",
   "lastOpenFiles": [
+    "200 Neurons/23.9 DI and instances.md",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 Implementing a custom service - without an interface.md",
     "200 Neurons/23.9 About versioning.md",
     "100 Lobules/12.14 Typescript.md",
     "200 Neurons/22.14 Inference - literal vs wide - types of variables.md",
@@ -261,8 +290,6 @@
     "200 Neurons/23.9 Using information from the token in a controller.md",
     "200 Neurons/23.9 Creating a token.md",
     "200 Neurons/23.9 Token-based security.md",
-    "100 Lobules/13.8 ASP.NET Core.md",
-    "900 Attatchments/901 Templates/23.8 .NET.md",
     "Tracker.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
