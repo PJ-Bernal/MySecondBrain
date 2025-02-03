@@ -4,45 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "8b725062f66cf1c2",
+        "id": "da4614cafe7d55be",
         "type": "tabs",
         "children": [
           {
-            "id": "91d01a46725cf433",
+            "id": "a5a77a52e16aae44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
+                "file": "200 Neurons/23.9 Globally handling and logging exceptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.9 ASP.NET Core Web API"
+              "title": "23.9 Globally handling and logging exceptions"
             }
           },
           {
-            "id": "14bfa49d0f548864",
+            "id": "e769962e2a98c412",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "200 Neurons/23.8 Model.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "23.8 Model"
             }
           },
           {
-            "id": "8c989f800447f04e",
+            "id": "c080cde44b707c52",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.3"
+                "file": "200 Neurons/22.2 What is a URL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "icon": "lucide-file",
+              "title": "22.2 What is a URL"
             }
           }
         ],
@@ -99,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
+                "file": "200 Neurons/23.8 Model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +229,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 13.9 ASP.NET Core Web API"
+              "title": "Graph of 23.8 Model"
             }
           }
         ]
@@ -251,45 +254,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14bfa49d0f548864",
+  "active": "e769962e2a98c412",
   "lastOpenFiles": [
-    "200 Neurons/23.9 DI and instances.md",
+    "100 Lobules/13.8 ASP.NET Core.md",
+    "200 Neurons/23.9 MVC for API.md",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
-    "200 Neurons/23.9 Implementing a custom service - without an interface.md",
-    "200 Neurons/23.9 About versioning.md",
-    "100 Lobules/12.14 Typescript.md",
-    "200 Neurons/22.14 Inference - literal vs wide - types of variables.md",
-    "200 Neurons/22.14 Interfaces.md",
-    "900 Attatchments/Images/Pasted image 20250128162636.png",
-    "900 Attatchments/Images/Pasted image 20250128161040.png",
-    "900 Attatchments/Images/Pasted image 20250128161024.png",
-    "900 Attatchments/Images/Pasted image 20250128161000.png",
-    "900 Attatchments/Images/Pasted image 20250128155720.png",
-    "900 Attatchments/Images/Pasted image 20250128155159.png",
-    "900 Attatchments/Images/Pasted image 20250128155037.png",
-    "900 Attatchments/Images/Pasted image 20250128155017.png",
-    "900 Attatchments/Images/Pasted image 20250128154855.png",
-    "200 Neurons/22.14 Function types.md",
-    "200 Neurons/22.14 Functions overloads.md",
-    "900 Attatchments/Images/Pasted image 20250128144935.png",
-    "200 Neurons/23.2 Functions overloads.md",
-    "200 Neurons/22.14 Arrow functions.md",
-    "200 Neurons/22.14 Annotate functions - optional, default and rest parameters.md",
+    "200 Neurons/23.9 Returning data from the repo.md",
+    "200 Neurons/23.9 Searching and filtering results.md",
+    "200 Neurons/23.9 Selecting the template - the project structure.md",
+    "200 Neurons/23.9 Globally handling and logging exceptions.md",
+    "200 Neurons/23.9 Logging exceptions.md",
+    "200 Neurons/23.9 Deploy to Azure.md",
+    "200 Neurons/23.9 Versioning the API.md",
+    "200 Neurons/23.9 Adding support for versioning to the API.md",
+    "200 Neurons/23.9 Updating the resource.md",
+    "200 Neurons/23.9 Validating input.md",
+    "200 Neurons/23.9 Status codes for inexisted resources.md",
+    "200 Neurons/23.9 Ngrok.md",
+    "200 Neurons/23.9 Documenting authentication.md",
+    "900 Attatchments/Images/Pasted image 20250203121249.png",
+    "200 Neurons/23.9 Add swagger to the API.md",
+    "200 Neurons/23.9 Describing response for IActionResult endpoints.md",
+    "900 Attatchments/Images/Pasted image 20250203120639.png",
+    "900 Attatchments/Images/Pasted image 20250203120622.png",
+    "200 Neurons/23.9 XML comments on action methods.md",
+    "900 Attatchments/Images/Pasted image 20250203120526.png",
+    "900 Attatchments/Images/Pasted image 20250203120459.png",
+    "900 Attatchments/Images/Pasted image 20250203120319.png",
+    "200 Neurons/23.9 Changing the default url when executing the project.md",
+    "900 Attatchments/Images/Pasted image 20250203120018.png",
+    "200 Neurons/23.9 Injecting and using a logger.md",
+    "900 Attatchments/Images/Pasted image 20250203115718.png",
+    "900 Attatchments/Images/Pasted image 20250203115657.png",
+    "900 Attatchments/Images/Pasted image 20250203115550.png",
+    "200 Neurons/23.9 Supporting different documentation version.md",
+    "200 Neurons/23.9 About OpenAPI, Swagger and swashbuckle.md",
+    "200 Neurons/23.9 Improving storing secrets with azure key.md",
+    "200 Neurons/23.9 Configuring logging on app insights.md",
+    "200 Neurons/23.9 Configuring the forwarded headers middleware.md",
     "MySecondBrain",
-    "200 Neurons/22.14  Arrays.md",
-    "200 Neurons/22.14 Null checks.md",
-    "200 Neurons/22.14  Union types.md",
-    "200 Neurons/22.14 Variable declarations - type annotations and interfaces.md",
-    "200 Neurons/22.14 Basic project configuration.md",
-    "200 Neurons/22.14 Installing - compiling and running TS.md",
-    "200 Neurons/22.14 What is typescript - why to use it - TS and VSCode.md",
-    "200 Neurons/23.9 OAuth2 and OpenId.md",
-    "200 Neurons/23.9 Getting a token with .NET user-jwts.md",
-    "200 Neurons/23.9 Authorization policies.md",
-    "200 Neurons/23.9 Requiring and validation a token.md",
-    "200 Neurons/23.9 Using information from the token in a controller.md",
-    "200 Neurons/23.9 Creating a token.md",
-    "200 Neurons/23.9 Token-based security.md",
     "Tracker.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
