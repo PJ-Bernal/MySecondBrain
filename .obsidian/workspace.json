@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 RESTful architecture.md",
+                "file": "200 Neurons/23.9 The design of the outer facing contract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 RESTful architecture"
+              "title": "23.9 The design of the outer facing contract"
             }
           },
           {
             "id": "fc0f2344c27c8072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Neurons/23.9 The default program class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23.9 The default program class"
+            }
+          },
+          {
+            "id": "2dae432935308f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,20 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "13.9 ASP.NET Core Web API"
-            }
-          },
-          {
-            "id": "2dae432935308f90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Neurons/23.7 Custom types - BCL contains custom types - namespace - global usings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23.7 Custom types - BCL contains custom types - namespace - global usings"
             }
           },
           {
@@ -110,12 +110,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\":.net_web_api] mock",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Neurons/23.9 RESTful architecture.md",
+                "file": "200 Neurons/23.9 The design of the outer facing contract.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +258,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 23.9 RESTful architecture"
+              "title": "Graph of 23.9 The design of the outer facing contract"
             }
           }
         ]
@@ -284,20 +285,32 @@
   },
   "active": "fc4c9749744464ce",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250204075314.png",
-    "900 Attatchments/Images/Pasted image 20250204073414.png",
-    "900 Attatchments/Images/Pasted image 20250204073301.png",
-    "900 Attatchments/Images/Pasted image 20250203173102.png",
-    "900 Attatchments/Images/Pasted image 20250203173009.png",
-    "900 Attatchments/Images/Pasted image 20250203172738.png",
+    "900 Attatchments/Images/Pasted image 20250204100404.png",
+    "900 Attatchments/Images/Pasted image 20250204095903.png",
+    "900 Attatchments/Images/Pasted image 20250204095748.png",
+    "900 Attatchments/Images/Pasted image 20250204095122.png",
+    "900 Attatchments/Images/Pasted image 20250204094757.png",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 Resource identifier.md",
+    "200 Neurons/23.9 The richardson maturity model.md",
     "200 Neurons/23.9 RESTful architecture.md",
+    "200 Neurons/23.9 The design of the outer facing contract.md",
+    "200 Neurons/23.9 The default program class.md",
+    "900 Attatchments/Images/Pasted image 20250204085958.png",
+    "900 Attatchments/Images/Pasted image 20250204084808.png",
+    "900 Attatchments/Images/Pasted image 20250204084639.png",
+    "200 Neurons/23.9 Code on demand.md",
+    "200 Neurons/23.9 Cacheable.md",
+    "200 Neurons/23.9 Layered system.md",
+    "200 Neurons/23.9 Statelessness.md",
+    "200 Neurons/23.9 Client - server.md",
+    "200 Neurons/23.9 Uniform Interface.md",
+    "200 Neurons/23.9 Adding routing.md",
+    "200 Neurons/23.7 Custom types - BCL contains custom types - namespace - global usings.md",
+    "900 Attatchments/Images/Pasted image 20250204080047.png",
+    "900 Attatchments/Images/Pasted image 20250204080035.png",
+    "900 Attatchments/Images/Pasted image 20250204075558.png",
     "200 Neurons/23.9 The project for the notes.md",
-    "900 Attatchments/Images/Pasted image 20250203164730.png",
-    "900 Attatchments/Images/Pasted image 20250203164600.png",
-    "900 Attatchments/Images/Pasted image 20250203164452.png",
-    "900 Attatchments/Images/Pasted image 20250203164352.png",
-    "900 Attatchments/Images/Pasted image 20250203164308.png",
     "200 Neurons/23.9 About MVC.md",
     "200 Neurons/23.9 Adding a controller.md",
     "200 Neurons/23.9 Creating an action method.md",
@@ -308,18 +321,6 @@
     "200 Neurons/23.9 About OpenAPI, Swagger and swashbuckle.md",
     "200 Neurons/23.9 About routing.md",
     "200 Neurons/23.8 Controller.md",
-    "200 Neurons/23.8 Repository.md",
-    "200 Neurons/23.9 Adding routing.md",
-    "200 Neurons/23.9 Adding mock data.md",
-    "200 Neurons/23.9 The default program class.md",
-    "200 Neurons/23.9 Selecting the template - the project structure.md",
-    "200 Neurons/23.9 Repository pattern.md",
-    "200 Neurons/23.9 Adding a model.md",
-    "200 Neurons/23.8 Creating the model.md",
-    "200 Neurons/23.9 Creating entity classes.md",
-    "200 Neurons/23.7 Null forgiving operator.md",
-    "200 Neurons/23.8 Using mock data.md",
-    "200 Neurons/23.8 Creating the app.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
