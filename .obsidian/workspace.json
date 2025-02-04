@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Inspecting a put action.md",
+                "file": "200 Neurons/22.2 What is a URL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Inspecting a put action"
+              "title": "22.2 What is a URL"
             }
           },
           {
@@ -76,19 +76,9 @@
               "icon": "lucide-file",
               "title": "13.9 ASP.NET Core Web API"
             }
-          },
-          {
-            "id": "87d4ab31d3018adf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"url\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "b1f3b5f1982867a4",
@@ -240,6 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "200 Neurons/22.2 What is a URL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 22.2 What is a URL"
             }
           }
         ]
@@ -292,24 +282,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87d4ab31d3018adf",
+  "active": "fc4c9749744464ce",
   "lastOpenFiles": [
+    "200 Neurons/23.9 Using PUT or PATCH for creating a resource.md",
+    "900 Attatchments/Images/Pasted image 20250204152635.png",
+    "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 Supporting patch.md",
+    "900 Attatchments/Images/Pasted image 20250204151212.png",
+    "900 Attatchments/Images/Pasted image 20250204151039.png",
+    "900 Attatchments/Images/Pasted image 20250204150927.png",
+    "900 Attatchments/Images/Pasted image 20250204150907.png",
+    "900 Attatchments/Images/Pasted image 20250204150810.png",
+    "900 Attatchments/Images/Pasted image 20250204150803.png",
+    "900 Attatchments/Images/Pasted image 20250204150750.png",
+    "900 Attatchments/Images/Pasted image 20250204150603.png",
+    "900 Attatchments/Images/Pasted image 20250204150530.png",
     "200 Neurons/23.9 Inspecting a put action.md",
     "200 Neurons/23.9 Full updates and partial updates.md",
-    "900 Attatchments/Images/Pasted image 20250204144120.png",
-    "900 Attatchments/Images/Pasted image 20250204144108.png",
-    "900 Attatchments/Images/Pasted image 20250204144052.png",
-    "900 Attatchments/Images/Pasted image 20250204144040.png",
-    "900 Attatchments/Images/Pasted image 20250204144030.png",
-    "900 Attatchments/Images/Pasted image 20250204143957.png",
-    "900 Attatchments/Images/Pasted image 20250204143913.png",
     "200 Neurons/23.9 Posting to a single resource.md",
-    "100 Lobules/13.9 ASP.NET Core Web API.md",
     "200 Neurons/23.9 Working with array keys and composite keys.md",
     "200 Neurons/23.9 POST methods.md",
-    "900 Attatchments/Images/Pasted image 20250204141927.png",
-    "900 Attatchments/Images/Pasted image 20250204141905.png",
-    "900 Attatchments/Images/Pasted image 20250204141824.png",
     "200 Neurons/23.9 Creating a collection of resources.md",
     "200 Neurons/23.9 Creating a child resource.md",
     "200 Neurons/23.9 The project for the notes.md",
@@ -327,9 +319,6 @@
     "200 Neurons/23.9 Selecting the template - the project structure.md",
     "100 Lobules/13.7 C Sharp.md",
     "200 Neurons/23.7 About C sharp and .NET.md",
-    "200 Neurons/23.9 Errors vs faults.md",
-    "200 Neurons/23.9 The design of the outer facing contract.md",
-    "200 Neurons/23.9 Resource identifier.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
