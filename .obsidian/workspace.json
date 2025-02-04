@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 The design of the outer facing contract.md",
+                "file": "200 Neurons/23.9 Inspecting a put action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 The design of the outer facing contract"
+              "title": "23.9 Inspecting a put action"
+            }
+          },
+          {
+            "id": "4314f00b5f59444c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Neurons/23.9 The project for the notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23.9 The project for the notes"
             }
           },
           {
@@ -64,21 +78,17 @@
             }
           },
           {
-            "id": "1756bf4857e7e3f0",
+            "id": "87d4ab31d3018adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Neurons/23.9 Selecting the template - the project structure.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "23.9 Selecting the template - the project structure"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,7 +240,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Neurons/23.9 The design of the outer facing contract.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +267,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 23.9 The design of the outer facing contract"
+              "title": "Graph view"
             }
           }
         ]
@@ -283,44 +292,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc4c9749744464ce",
+  "active": "87d4ab31d3018adf",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250204100404.png",
-    "900 Attatchments/Images/Pasted image 20250204095903.png",
-    "900 Attatchments/Images/Pasted image 20250204095748.png",
-    "900 Attatchments/Images/Pasted image 20250204095122.png",
-    "900 Attatchments/Images/Pasted image 20250204094757.png",
+    "200 Neurons/23.9 Inspecting a put action.md",
+    "200 Neurons/23.9 Full updates and partial updates.md",
+    "900 Attatchments/Images/Pasted image 20250204144120.png",
+    "900 Attatchments/Images/Pasted image 20250204144108.png",
+    "900 Attatchments/Images/Pasted image 20250204144052.png",
+    "900 Attatchments/Images/Pasted image 20250204144040.png",
+    "900 Attatchments/Images/Pasted image 20250204144030.png",
+    "900 Attatchments/Images/Pasted image 20250204143957.png",
+    "900 Attatchments/Images/Pasted image 20250204143913.png",
+    "200 Neurons/23.9 Posting to a single resource.md",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
-    "200 Neurons/23.9 Resource identifier.md",
-    "200 Neurons/23.9 The richardson maturity model.md",
-    "200 Neurons/23.9 RESTful architecture.md",
-    "200 Neurons/23.9 The design of the outer facing contract.md",
-    "200 Neurons/23.9 The default program class.md",
-    "900 Attatchments/Images/Pasted image 20250204085958.png",
-    "900 Attatchments/Images/Pasted image 20250204084808.png",
-    "900 Attatchments/Images/Pasted image 20250204084639.png",
-    "200 Neurons/23.9 Code on demand.md",
-    "200 Neurons/23.9 Cacheable.md",
-    "200 Neurons/23.9 Layered system.md",
-    "200 Neurons/23.9 Statelessness.md",
-    "200 Neurons/23.9 Client - server.md",
-    "200 Neurons/23.9 Uniform Interface.md",
-    "200 Neurons/23.9 Adding routing.md",
-    "200 Neurons/23.7 Custom types - BCL contains custom types - namespace - global usings.md",
-    "900 Attatchments/Images/Pasted image 20250204080047.png",
-    "900 Attatchments/Images/Pasted image 20250204080035.png",
-    "900 Attatchments/Images/Pasted image 20250204075558.png",
+    "200 Neurons/23.9 Working with array keys and composite keys.md",
+    "200 Neurons/23.9 POST methods.md",
+    "900 Attatchments/Images/Pasted image 20250204141927.png",
+    "900 Attatchments/Images/Pasted image 20250204141905.png",
+    "900 Attatchments/Images/Pasted image 20250204141824.png",
+    "200 Neurons/23.9 Creating a collection of resources.md",
+    "200 Neurons/23.9 Creating a child resource.md",
     "200 Neurons/23.9 The project for the notes.md",
-    "200 Neurons/23.9 About MVC.md",
-    "200 Neurons/23.9 Adding a controller.md",
-    "200 Neurons/23.9 Creating an action method.md",
-    "100 Lobules/13.8 ASP.NET Core.md",
-    "200 Neurons/23.8 ViewBag - strong type views.md",
-    "200 Neurons/23.8 Matching controllers and views.md",
-    "200 Neurons/23.8 Adding a controller.md",
-    "200 Neurons/23.9 About OpenAPI, Swagger and swashbuckle.md",
-    "200 Neurons/23.9 About routing.md",
-    "200 Neurons/23.8 Controller.md",
+    "200 Neurons/23.9 The ApiController attribute.md",
+    "200 Neurons/23.9 RESTful architecture.md",
+    "200 Neurons/23.9 Passing data to the API.md",
+    "200 Neurons/22.5 What is JSON.md",
+    "200 Neurons/23.9 Method safety and method Idempotency.md",
+    "200 Neurons/23.9 Supporting XML.md",
+    "200 Neurons/23.9 Outer face model vs entity model.md",
+    "200 Neurons/23.9 Supporting HEAD.md",
+    "200 Neurons/23.9 The default program class.md",
+    "200 Neurons/23.9 Content negotiation and formatters.md",
+    "200 Neurons/23.9 Handling faults and avoiding exposing implementation details.md",
+    "200 Neurons/23.9 Selecting the template - the project structure.md",
+    "100 Lobules/13.7 C Sharp.md",
+    "200 Neurons/23.7 About C sharp and .NET.md",
+    "200 Neurons/23.9 Errors vs faults.md",
+    "200 Neurons/23.9 The design of the outer facing contract.md",
+    "200 Neurons/23.9 Resource identifier.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
