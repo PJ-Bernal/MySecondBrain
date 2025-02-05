@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
+                "file": "200 Neurons/23.9 Destructive actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.9 ASP.NET Core Web API"
+              "title": "23.9 Destructive actions"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "13.9 ASP.NET Core Web API"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "b1f3b5f1982867a4",
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Neurons/22.2 What is a URL.md",
+                "file": "200 Neurons/23.9 Destructive actions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 22.2 What is a URL"
+              "title": "Graph of 23.9 Destructive actions"
             }
           }
         ]
@@ -282,21 +282,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc4c9749744464ce",
+  "active": "c080cde44b707c52",
   "lastOpenFiles": [
-    "200 Neurons/23.9 Using PUT or PATCH for creating a resource.md",
-    "900 Attatchments/Images/Pasted image 20250204152635.png",
+    "200 Neurons/23.9 Upserting with patch.md",
+    "200 Neurons/23.9 Destructive actions.md",
+    "900 Attatchments/Images/Pasted image 20250205091543.png",
+    "900 Attatchments/Images/Pasted image 20250205091506.png",
+    "900 Attatchments/Images/Pasted image 20250205091456.png",
+    "900 Attatchments/Images/Pasted image 20250205091416.png",
+    "900 Attatchments/Images/Pasted image 20250205090547.png",
+    "900 Attatchments/Images/Pasted image 20250205090452.png",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 Upserting with put.md",
+    "900 Attatchments/Images/Pasted image 20250205085428.png",
+    "900 Attatchments/Images/Pasted image 20250205085402.png",
+    "900 Attatchments/Images/Pasted image 20250205085327.png",
+    "900 Attatchments/Images/Pasted image 20250205085054.png",
+    "200 Neurons/23.9 The project for the notes.md",
+    "200 Neurons/23.9 Using PUT or PATCH for creating a resource.md",
+    "200 Neurons/22.2 What is a URL.md",
     "200 Neurons/23.9 Supporting patch.md",
-    "900 Attatchments/Images/Pasted image 20250204151212.png",
-    "900 Attatchments/Images/Pasted image 20250204151039.png",
-    "900 Attatchments/Images/Pasted image 20250204150927.png",
-    "900 Attatchments/Images/Pasted image 20250204150907.png",
-    "900 Attatchments/Images/Pasted image 20250204150810.png",
-    "900 Attatchments/Images/Pasted image 20250204150803.png",
-    "900 Attatchments/Images/Pasted image 20250204150750.png",
-    "900 Attatchments/Images/Pasted image 20250204150603.png",
-    "900 Attatchments/Images/Pasted image 20250204150530.png",
     "200 Neurons/23.9 Inspecting a put action.md",
     "200 Neurons/23.9 Full updates and partial updates.md",
     "200 Neurons/23.9 Posting to a single resource.md",
@@ -304,7 +309,6 @@
     "200 Neurons/23.9 POST methods.md",
     "200 Neurons/23.9 Creating a collection of resources.md",
     "200 Neurons/23.9 Creating a child resource.md",
-    "200 Neurons/23.9 The project for the notes.md",
     "200 Neurons/23.9 The ApiController attribute.md",
     "200 Neurons/23.9 RESTful architecture.md",
     "200 Neurons/23.9 Passing data to the API.md",
@@ -316,9 +320,6 @@
     "200 Neurons/23.9 The default program class.md",
     "200 Neurons/23.9 Content negotiation and formatters.md",
     "200 Neurons/23.9 Handling faults and avoiding exposing implementation details.md",
-    "200 Neurons/23.9 Selecting the template - the project structure.md",
-    "100 Lobules/13.7 C Sharp.md",
-    "200 Neurons/23.7 About C sharp and .NET.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
