@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Destructive actions.md",
+                "file": "200 Neurons/23.9 Input formatters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Destructive actions"
+              "title": "23.9 Input formatters"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 The project for the notes.md",
+                "file": "200 Neurons/23.9 REST validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 The project for the notes"
+              "title": "23.9 REST validation"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "13.9 ASP.NET Core Web API"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Neurons/23.9 Destructive actions.md",
+                "file": "200 Neurons/23.9 REST validation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +258,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 23.9 Destructive actions"
+              "title": "Graph of 23.9 REST validation"
             }
           }
         ]
@@ -282,23 +283,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c080cde44b707c52",
+  "active": "4314f00b5f59444c",
   "lastOpenFiles": [
-    "200 Neurons/23.9 Upserting with patch.md",
-    "200 Neurons/23.9 Destructive actions.md",
-    "900 Attatchments/Images/Pasted image 20250205091543.png",
-    "900 Attatchments/Images/Pasted image 20250205091506.png",
-    "900 Attatchments/Images/Pasted image 20250205091456.png",
-    "900 Attatchments/Images/Pasted image 20250205091416.png",
-    "900 Attatchments/Images/Pasted image 20250205090547.png",
-    "900 Attatchments/Images/Pasted image 20250205090452.png",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
-    "200 Neurons/23.9 Upserting with put.md",
-    "900 Attatchments/Images/Pasted image 20250205085428.png",
-    "900 Attatchments/Images/Pasted image 20250205085402.png",
-    "900 Attatchments/Images/Pasted image 20250205085327.png",
-    "900 Attatchments/Images/Pasted image 20250205085054.png",
+    "200 Neurons/23.9 REST validation.md",
+    "200 Neurons/23.9 HTTP Method overview.md",
+    "900 Attatchments/Images/Pasted image 20250205094700.png",
+    "900 Attatchments/Images/Pasted image 20250205094615.png",
+    "900 Attatchments/Images/Pasted image 20250205094056.png",
+    "200 Neurons/23.9 Destructive actions.md",
     "200 Neurons/23.9 The project for the notes.md",
+    "200 Neurons/23.9 Input formatters.md",
+    "900 Attatchments/Images/Pasted image 20250205093856.png",
+    "900 Attatchments/Images/Pasted image 20250205093843.png",
+    "900 Attatchments/Images/Pasted image 20250205093828.png",
+    "900 Attatchments/Images/Pasted image 20250205093817.png",
+    "900 Attatchments/Images/Pasted image 20250205093543.png",
+    "200 Neurons/23.9 No content-type header in a request.md",
+    "900 Attatchments/Images/Pasted image 20250205093311.png",
+    "200 Neurons/23.9 OPTIONS method.md",
+    "900 Attatchments/Images/Pasted image 20250205093020.png",
+    "200 Neurons/23.9 Upserting with patch.md",
+    "200 Neurons/23.9 Upserting with put.md",
     "200 Neurons/23.9 Using PUT or PATCH for creating a resource.md",
     "200 Neurons/22.2 What is a URL.md",
     "200 Neurons/23.9 Supporting patch.md",
@@ -315,11 +321,6 @@
     "200 Neurons/22.5 What is JSON.md",
     "200 Neurons/23.9 Method safety and method Idempotency.md",
     "200 Neurons/23.9 Supporting XML.md",
-    "200 Neurons/23.9 Outer face model vs entity model.md",
-    "200 Neurons/23.9 Supporting HEAD.md",
-    "200 Neurons/23.9 The default program class.md",
-    "200 Neurons/23.9 Content negotiation and formatters.md",
-    "200 Neurons/23.9 Handling faults and avoiding exposing implementation details.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
