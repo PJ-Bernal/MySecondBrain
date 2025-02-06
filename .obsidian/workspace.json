@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Taking consumer errors into account when shaping data.md",
+                "file": "200 Neurons/23.9 Self-discoverability with a root document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Taking consumer errors into account when shaping data"
+              "title": "23.9 Self-discoverability with a root document"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Neurons/23.9 Taking consumer errors into account when shaping data.md",
+                "file": "200 Neurons/23.9 Self-discoverability with a root document.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,12 +238,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6554983534946917,
+                  "scale": 0.33349257831805873,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 23.9 Taking consumer errors into account when shaping data"
+              "title": "Graph of 23.9 Self-discoverability with a root document"
             }
           }
         ]
@@ -270,21 +270,28 @@
   },
   "active": "c080cde44b707c52",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250206115730.png",
-    "900 Attatchments/Images/Pasted image 20250206115657.png",
-    "900 Attatchments/Images/Pasted image 20250206115641.png",
-    "900 Attatchments/Images/Pasted image 20250206115632.png",
-    "900 Attatchments/Images/Pasted image 20250206115445.png",
-    "900 Attatchments/Images/Pasted image 20250206115423.png",
-    "900 Attatchments/Images/Pasted image 20250206115324.png",
-    "900 Attatchments/Images/Pasted image 20250206115254.png",
-    "900 Attatchments/Images/Pasted image 20250206115151.png",
-    "900 Attatchments/Images/Pasted image 20250206115125.png",
-    "900 Attatchments/Images/Pasted image 20250206115047.png",
-    "200 Neurons/23.9 Data shaping a single resource.md",
-    "200 Neurons/23.9 Taking consumer errors into account when shaping data.md",
-    "200 Neurons/23.9 Data shaping - creating an resuable extension method to shape data.md",
+    "900 Attatchments/Images/Pasted image 20250206142730.png",
+    "900 Attatchments/Images/Pasted image 20250206142720.png",
+    "900 Attatchments/Images/Pasted image 20250206142659.png",
+    "900 Attatchments/Images/Pasted image 20250206142620.png",
+    "900 Attatchments/Images/Pasted image 20250206142612.png",
+    "900 Attatchments/Images/Pasted image 20250206142537.png",
+    "900 Attatchments/Images/Pasted image 20250206141853.png",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 Self-discoverability with a root document.md",
+    "200 Neurons/23.9 Pagination with HATEOAS.md",
+    "900 Attatchments/Images/Pasted image 20250206141623.png",
+    "900 Attatchments/Images/Pasted image 20250206141613.png",
+    "900 Attatchments/Images/Pasted image 20250206141600.png",
+    "900 Attatchments/Images/Pasted image 20250206141543.png",
+    "200 Neurons/23.9 Implementing HATEOAS for collections.md",
+    "200 Neurons/23.9 HATEOAS after posting.md",
+    "200 Neurons/23.9 Implementing HATEOAS for a single resource.md",
+    "200 Neurons/23.9 Supporting HATEOAS.md",
+    "200 Neurons/23.9 Hypermedia as the engine of application state.md",
+    "200 Neurons/23.9 Taking consumer errors into account when shaping data.md",
+    "200 Neurons/23.9 Data shaping a single resource.md",
+    "200 Neurons/23.9 Data shaping - creating an resuable extension method to shape data.md",
     "200 Neurons/22.2 What is a URL.md",
     "200 Neurons/23.9 Using the data shaping method for a collection of resources.md",
     "200 Neurons/23.9 Searching through collection of resources.md",
@@ -299,13 +306,6 @@
     "200 Neurons/23.9 Paging through collection of resources.md",
     "200 Neurons/23.9 Grouping action parameters together into one object.md",
     "200 Neurons/23.9 Deferred execution.md",
-    "200 Neurons/23.9 The project for the notes.md",
-    "200 Neurons/23.9 Filtering and searching.md",
-    "200 Neurons/23.9 The default program class.md",
-    "200 Neurons/23.9 Passing data to the api via action parameters.md",
-    "200 Neurons/23.9 Another approach for validation is fluent validatoin.md",
-    "200 Neurons/23.9 Validating input when upserting with patch.md",
-    "200 Neurons/23.9 Returning validation problems from controller actions.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
