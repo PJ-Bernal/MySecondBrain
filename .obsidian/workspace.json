@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
+                "file": "200 Neurons/23.9 Taking consumer errors into account when shaping data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.9 ASP.NET Core Web API"
-            }
-          },
-          {
-            "id": "fc4c9749744464ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Neurons/22.2 What is a URL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "22.2 What is a URL"
+              "title": "23.9 Taking consumer errors into account when shaping data"
             }
           },
           {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Searching through collection of resources.md",
+                "file": "200 Neurons/23.9 Data shaping - creating an resuable extension method to shape data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Searching through collection of resources"
+              "title": "23.9 Data shaping - creating an resuable extension method to shape data"
             }
           },
           {
@@ -55,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
+                "file": "200 Neurons/23.9 Data shaping a single resource.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.9 ASP.NET Core Web API"
+              "title": "23.9 Data shaping a single resource"
             }
           },
           {
@@ -77,8 +63,7 @@
               "title": "13.9 ASP.NET Core Web API"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
+                "file": "200 Neurons/23.9 Taking consumer errors into account when shaping data.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 13.9 ASP.NET Core Web API"
+              "title": "Graph of 23.9 Taking consumer errors into account when shaping data"
             }
           }
         ]
@@ -283,22 +268,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc0f2344c27c8072",
+  "active": "c080cde44b707c52",
   "lastOpenFiles": [
-    "200 Neurons/23.9 Consumer errors when sorting.md",
-    "900 Attatchments/Images/Pasted image 20250206103906.png",
-    "900 Attatchments/Images/Pasted image 20250206103859.png",
-    "900 Attatchments/Images/Pasted image 20250206103750.png",
-    "900 Attatchments/Images/Pasted image 20250206103731.png",
-    "900 Attatchments/Images/Pasted image 20250206103655.png",
-    "900 Attatchments/Images/Pasted image 20250206103627.png",
-    "900 Attatchments/Images/Pasted image 20250206102734.png",
-    "900 Attatchments/Images/Pasted image 20250206102631.png",
-    "900 Attatchments/Images/Pasted image 20250206102618.png",
-    "200 Neurons/23.9 Adding order by clauses to pagination links.md",
-    "900 Attatchments/Images/Pasted image 20250206102017.png",
-    "200 Neurons/23.9 Creating a reusable applysort method.md",
+    "900 Attatchments/Images/Pasted image 20250206115730.png",
+    "900 Attatchments/Images/Pasted image 20250206115657.png",
+    "900 Attatchments/Images/Pasted image 20250206115641.png",
+    "900 Attatchments/Images/Pasted image 20250206115632.png",
+    "900 Attatchments/Images/Pasted image 20250206115445.png",
+    "900 Attatchments/Images/Pasted image 20250206115423.png",
+    "900 Attatchments/Images/Pasted image 20250206115324.png",
+    "900 Attatchments/Images/Pasted image 20250206115254.png",
+    "900 Attatchments/Images/Pasted image 20250206115151.png",
+    "900 Attatchments/Images/Pasted image 20250206115125.png",
+    "900 Attatchments/Images/Pasted image 20250206115047.png",
+    "200 Neurons/23.9 Data shaping a single resource.md",
+    "200 Neurons/23.9 Taking consumer errors into account when shaping data.md",
+    "200 Neurons/23.9 Data shaping - creating an resuable extension method to shape data.md",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/22.2 What is a URL.md",
+    "200 Neurons/23.9 Using the data shaping method for a collection of resources.md",
+    "200 Neurons/23.9 Searching through collection of resources.md",
+    "200 Neurons/23.9 Consumer errors when sorting.md",
+    "200 Neurons/23.9 Adding order by clauses to pagination links.md",
+    "200 Neurons/23.9 Creating a reusable applysort method.md",
     "200 Neurons/23.9 Creating a property mapping service.md",
     "200 Neurons/23.9 Sorting collection resources.md",
     "200 Neurons/23.9 Returning  pagination metadata.md",
@@ -308,18 +300,12 @@
     "200 Neurons/23.9 Grouping action parameters together into one object.md",
     "200 Neurons/23.9 Deferred execution.md",
     "200 Neurons/23.9 The project for the notes.md",
-    "200 Neurons/23.9 Searching through collection of resources.md",
     "200 Neurons/23.9 Filtering and searching.md",
-    "200 Neurons/22.2 What is a URL.md",
     "200 Neurons/23.9 The default program class.md",
     "200 Neurons/23.9 Passing data to the api via action parameters.md",
     "200 Neurons/23.9 Another approach for validation is fluent validatoin.md",
     "200 Neurons/23.9 Validating input when upserting with patch.md",
     "200 Neurons/23.9 Returning validation problems from controller actions.md",
-    "200 Neurons/23.9 Input formatters.md",
-    "200 Neurons/23.9 Validating input when updating with patch.md",
-    "200 Neurons/23.9 Class-level input validation with a Custom Attribute.md",
-    "200 Neurons/23.9 Class-level input validation with IValidatable object.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
