@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Grouping action parameters together into one object.md",
+                "file": "200 Neurons/23.9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Grouping action parameters together into one object"
+              "title": "23.9"
             }
           },
           {
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Neurons/23.9 Grouping action parameters together into one object.md",
+                "file": "200 Neurons/23.9.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +258,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 23.9 Grouping action parameters together into one object"
+              "title": "Graph of 23.9"
             }
           }
         ]
@@ -285,18 +285,20 @@
   },
   "active": "fc0f2344c27c8072",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250205135341.png",
-    "900 Attatchments/Images/Pasted image 20250205135328.png",
-    "900 Attatchments/Images/Pasted image 20250205135051.png",
-    "900 Attatchments/Images/Pasted image 20250205134954.png",
-    "900 Attatchments/Images/Pasted image 20250205134927.png",
-    "900 Attatchments/Images/Pasted image 20250205134842.png",
-    "900 Attatchments/Images/Pasted image 20250205134745.png",
-    "900 Attatchments/Images/Pasted image 20250205134721.png",
-    "900 Attatchments/Images/Pasted image 20250205134700.png",
-    "900 Attatchments/Images/Pasted image 20250205134635.png",
-    "900 Attatchments/Images/Pasted image 20250205134614.png",
+    "200 Neurons/23.9 Return pagination metadata.md",
+    "200 Neurons/23.9.md",
+    "900 Attatchments/Images/Pasted image 20250206080857.png",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 Paging through collection of resources.md",
+    "900 Attatchments/Images/Pasted image 20250206080603.png",
+    "900 Attatchments/Images/Pasted image 20250206080548.png",
+    "900 Attatchments/Images/Pasted image 20250206080538.png",
+    "900 Attatchments/Images/Pasted image 20250206080535.png",
+    "900 Attatchments/Images/Pasted image 20250206080412.png",
+    "900 Attatchments/Images/Pasted image 20250206080310.png",
+    "900 Attatchments/Images/Pasted image 20250206080248.png",
+    "900 Attatchments/Images/Pasted image 20250206080024.png",
+    "900 Attatchments/Images/Pasted image 20250206080002.png",
     "200 Neurons/23.9 Grouping action parameters together into one object.md",
     "200 Neurons/23.9 Deferred execution.md",
     "200 Neurons/23.9 The project for the notes.md",
@@ -319,8 +321,6 @@
     "200 Neurons/23.9 The api controller attribute.md",
     "200 Neurons/23.9 Validating input with data annotations.md",
     "200 Neurons/23.9 REST validation.md",
-    "200 Neurons/23.9 HTTP Method overview.md",
-    "200 Neurons/23.9 Destructive actions.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
