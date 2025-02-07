@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Self-discoverability with a root document.md",
+                "file": "200 Neurons/23.9 Versioning in REST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Self-discoverability with a root document"
+              "title": "23.9 Versioning in REST"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Neurons/23.9 Self-discoverability with a root document.md",
+                "file": "200 Neurons/23.9 Versioning in REST.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 23.9 Self-discoverability with a root document"
+              "title": "Graph of 23.9 Versioning in REST"
             }
           }
         ]
@@ -270,20 +270,26 @@
   },
   "active": "c080cde44b707c52",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250206142730.png",
-    "900 Attatchments/Images/Pasted image 20250206142720.png",
-    "900 Attatchments/Images/Pasted image 20250206142659.png",
-    "900 Attatchments/Images/Pasted image 20250206142620.png",
-    "900 Attatchments/Images/Pasted image 20250206142612.png",
-    "900 Attatchments/Images/Pasted image 20250206142537.png",
-    "900 Attatchments/Images/Pasted image 20250206141853.png",
+    "900 Attatchments/Images/Pasted image 20250207093909.png",
+    "900 Attatchments/Images/Pasted image 20250207093608.png",
+    "200 Neurons/23.9 Improving resource representation selection with an action constraint.md",
+    "200 Neurons/23.9 Versioning in REST.md",
+    "900 Attatchments/Images/Pasted image 20250207093312.png",
+    "900 Attatchments/Images/Pasted image 20250207093301.png",
+    "900 Attatchments/Images/Pasted image 20250207093238.png",
+    "900 Attatchments/Images/Pasted image 20250207093227.png",
+    "900 Attatchments/Images/Pasted image 20250207093214.png",
+    "900 Attatchments/Images/Pasted image 20250207093141.png",
+    "900 Attatchments/Images/Pasted image 20250207093112.png",
+    "900 Attatchments/Images/Pasted image 20250207093057.png",
+    "900 Attatchments/Images/Pasted image 20250207093028.png",
+    "200 Neurons/23.9 Using vendor specific media type on input.md",
+    "200 Neurons/23.9 Specific media types.md",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 HATEOAS and content negotiation.md",
+    "200 Neurons/23.9 The contract between the consumer and the server.md",
     "200 Neurons/23.9 Self-discoverability with a root document.md",
     "200 Neurons/23.9 Pagination with HATEOAS.md",
-    "900 Attatchments/Images/Pasted image 20250206141623.png",
-    "900 Attatchments/Images/Pasted image 20250206141613.png",
-    "900 Attatchments/Images/Pasted image 20250206141600.png",
-    "900 Attatchments/Images/Pasted image 20250206141543.png",
     "200 Neurons/23.9 Implementing HATEOAS for collections.md",
     "200 Neurons/23.9 HATEOAS after posting.md",
     "200 Neurons/23.9 Implementing HATEOAS for a single resource.md",
@@ -300,12 +306,6 @@
     "200 Neurons/23.9 Creating a reusable applysort method.md",
     "200 Neurons/23.9 Creating a property mapping service.md",
     "200 Neurons/23.9 Sorting collection resources.md",
-    "200 Neurons/23.9 Returning  pagination metadata.md",
-    "200 Neurons/23.9 Improving reuse with PagedList class.md",
-    "200 Neurons/23.9 Return pagination metadata.md",
-    "200 Neurons/23.9 Paging through collection of resources.md",
-    "200 Neurons/23.9 Grouping action parameters together into one object.md",
-    "200 Neurons/23.9 Deferred execution.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
