@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Lobules/12.14 Typescript.md",
+                "file": "200 Neurons/22.14 Conceptualizing union and intersection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.14 Typescript"
+              "title": "22.14 Conceptualizing union and intersection"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "c080cde44b707c52",
   "lastOpenFiles": [
-    "200 Neurons/22.14 Structural vs nominal type.md",
+    "200 Neurons/22.14 Conceptualizing union and intersection.md",
     "100 Lobules/12.14 Typescript.md",
+    "200 Neurons/22.14 Structural vs nominal type.md",
     "200 Neurons/22.14 Tuples.md",
     "200 Neurons/22.14 Array types.md",
     "900 Attatchments/Images/Pasted image 20250213073636.png",
@@ -217,7 +218,6 @@
     "200 Neurons/23.9 Directory structure by templates.md",
     "200 Neurons/23.9 The project for the notes.md",
     "200 Neurons/23.9 Architecture.md",
-    "200 Neurons/23.9 What is ASP.NET Core.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
