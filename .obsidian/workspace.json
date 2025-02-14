@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/22.14 Function overloads.md",
+                "file": "200 Neurons/22.14 Annotate functions - optional, default and rest parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.14 Function overloads"
-            }
-          },
-          {
-            "id": "b6eb03a0c5ba3568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Neurons/22.14 Type alias.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "22.14 Type alias"
+              "title": "22.14 Annotate functions - optional, default and rest parameters"
             }
           }
         ]
@@ -88,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,42 +183,42 @@
   },
   "active": "c080cde44b707c52",
   "lastOpenFiles": [
-    "200 Neurons/22.14 Constructables and function overloads.md",
-    "200 Neurons/22.14 Function overloads.md",
-    "900 Attatchments/Images/Pasted image 20250213160825.png",
-    "900 Attatchments/Images/Pasted image 20250213160645.png",
-    "200 Neurons/22.14 Void type.md",
-    "900 Attatchments/Images/Pasted image 20250213155944.png",
-    "900 Attatchments/Images/Pasted image 20250213155919.png",
-    "900 Attatchments/Images/Pasted image 20250213155421.png",
-    "200 Neurons/22.14 Callables.md",
-    "900 Attatchments/Images/Pasted image 20250213154634.png",
-    "200 Neurons/22.14 Type registry pattern.md",
-    "900 Attatchments/Images/Pasted image 20250213151741.png",
-    "200 Neurons/22.14 keyof.md",
-    "900 Attatchments/Images/Pasted image 20250213144559.png",
-    "900 Attatchments/Images/Pasted image 20250213144539.png",
+    "900 Attatchments/Images/Pasted image 20250214123858.png",
+    "900 Attatchments/Images/Pasted image 20250214123342.png",
     "100 Lobules/12.14 Typescript.md",
+    "200 Neurons/22.14 Annotate functions - optional, default and rest parameters.md",
+    "200 Neurons/22.14 Variable declarations - type annotations and interfaces.md",
+    "200 Neurons/22.14  Union types.md",
+    "200 Neurons/22.14 Control flow by type analysis.md",
+    "900 Attatchments/Images/Pasted image 20250214115911.png",
+    "900 Attatchments/Images/Pasted image 20250214115828.png",
+    "900 Attatchments/Images/Pasted image 20250214115805.png",
+    "200 Neurons/22.14 Index type - typeof.md",
+    "200 Neurons/22.14 Functions overloads.md",
     "200 Neurons/22.14 typeof.md",
-    "200 Neurons/22.14 Indexed access types.md",
-    "900 Attatchments/Images/Pasted image 20250213143713.png",
-    "200 Neurons/23.9.md",
-    "200 Neurons/22.14 JSON type exercise.md",
-    "200 Neurons/22.14 Recursive types.md",
-    "200 Neurons/22.14 Open interfaces.md",
-    "200 Neurons/22.14 Interface.md",
-    "200 Neurons/22.14 Type alias.md",
-    "200 Neurons/22.14 Interface and type aliases.md",
+    "200 Neurons/22.14 TS custom types.md",
+    "200 Neurons/22.14  Arrays.md",
+    "200 Neurons/22.14 Null checks when transpiling.md",
+    "900 Attatchments/Images/Pasted image 20250214114128.png",
+    "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
     "200 Neurons/22.14 Union  types.md",
     "200 Neurons/22.14 Conceptualizing union and intersection.md",
-    "200 Neurons/22.14 Values and requirements.md",
-    "200 Neurons/22.14 Intersection  types.md",
+    "200 Neurons/22.14 TS types and how to declare variables.md",
+    "200 Neurons/22.14 Type annotations.md",
+    "200 Neurons/22.14 Type  annotations.md",
+    "900 Attatchments/Images/Pasted image 20250214110933.png",
+    "900 Attatchments/Images/Pasted image 20250214110912.png",
+    "900 Attatchments/Images/Pasted image 20250214110401.png",
+    "900 Attatchments/Images/Pasted image 20250214105709.png",
+    "200 Neurons/22.14 The tsconfig.json file.md",
+    "200 Neurons/22.14 Create a VSCode tasks.md",
+    "900 Attatchments/Images/Pasted image 20250214104519.png",
+    "200 Neurons/22.14 Type alias.md",
+    "200 Neurons/22.14 What is typescript - why to use it - TS and VSCode.md",
+    "200 Neurons/22.14 Constructables and function overloads.md",
     "200 Neurons/22.14 Tuples.md",
-    "200 Neurons/22.14 Array types.md",
-    "200 Neurons/22.14 Type assertion - as.md",
-    "200 Neurons/22.14 Structural vs nominal type.md",
-    "200 Neurons/22.14 Index signatures.md",
-    "200 Neurons/22.14 Excess property checking - structural typing.md",
+    "200 Neurons/22.14 Function overloads.md",
+    "200 Neurons/22.14 Void type.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
