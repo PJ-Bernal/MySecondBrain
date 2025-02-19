@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c080cde44b707c52",
+            "id": "f3a10b4b992560c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "f3a10b4b992560c5",
+            "id": "836e5958cc2995f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
+                "file": "100 Lobules/12.14 Typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.14 Installing TS - compiling and running TS - tsconfig.json"
+              "title": "12.14 Typescript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,26 +197,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c080cde44b707c52",
+  "active": "836e5958cc2995f3",
   "lastOpenFiles": [
-    "100 Lobules/12.14 Typescript.md",
-    "200 Neurons/22.14 Watch mode.md",
+    "200 Neurons/22.14 Source maps.md",
+    "900 Attatchments/Images/Pasted image 20250219125753.png",
     "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
+    "900 Attatchments/Images/Pasted image 20250219122250.png",
+    "900 Attatchments/Images/Pasted image 20250219120421.png",
+    "100 Lobules/12.14 Typescript.md",
+    "900 Attatchments/Images/Pasted image 20250219114946.png",
+    "200 Neurons/22.14 Extending classes with interfaces.md",
+    "200 Neurons/22.14 Supporting JS.md",
+    "900 Attatchments/Images/Pasted image 20250219104747.png",
+    "900 Attatchments/Images/Pasted image 20250219104421.png",
+    "900 Attatchments/Images/Pasted image 20250219104121.png",
+    "200 Neurons/22.12 Creating the app boiler plate.md",
+    "200 Neurons/22.12 Creating a react app - index.html.md",
+    "200 Neurons/22.14 Watch mode.md",
+    "900 Attatchments/Images/Pasted image 20250219094314.png",
     "200 Neurons/22.14 About maps.md",
     "900 Attatchments/Images/Pasted image 20250218125743.png",
     "900 Attatchments/Images/Pasted image 20250218125714.png",
-    "900 Attatchments/Images/Pasted image 20250218125649.png",
-    "900 Attatchments/Images/Pasted image 20250218125638.png",
-    "900 Attatchments/Images/Pasted image 20250218125515.png",
-    "900 Attatchments/Images/Pasted image 20250218125439.png",
-    "900 Attatchments/Images/Pasted image 20250218125350.png",
-    "900 Attatchments/Images/Pasted image 20250218125305.png",
     "200 Neurons/22.14 About sets.md",
-    "900 Attatchments/Images/Pasted image 20250218125041.png",
-    "900 Attatchments/Images/Pasted image 20250218125021.png",
     "200 Neurons/22.14 Tuples.md",
     "200 Neurons/22.14  Arrays.md",
-    "200 Neurons/22.14 Source maps.md",
     "200 Neurons/22.14 Array types.md",
     "200 Neurons/22.14 Objects, arrays and tuples.md",
     "200 Neurons/22.14 About decorators.md",
@@ -227,11 +234,6 @@
     "200 Neurons/22.14 The role of async - await.md",
     "200 Neurons/22.14 Using promises.md",
     "200 Neurons/22.14 Understanding promises.md",
-    "200 Neurons/22.14 Exporting and importing modules.md",
-    "200 Neurons/22.14 Module resolution strategies.md",
-    "200 Neurons/22.14 Module resolution.md",
-    "200 Neurons/22.14 Why use modules.md",
-    "200 Neurons/22.14 Using an interface.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
