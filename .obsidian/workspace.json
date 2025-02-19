@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Lobules/12.14 Typescript.md",
+                "file": "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.14 Typescript"
+              "title": "22.14 Installing TS - compiling and running TS - tsconfig.json"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,24 +194,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3a10b4b992560c5",
+  "active": "c080cde44b707c52",
   "lastOpenFiles": [
     "100 Lobules/12.14 Typescript.md",
+    "200 Neurons/22.14 Watch mode.md",
+    "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
+    "200 Neurons/22.14 About maps.md",
+    "900 Attatchments/Images/Pasted image 20250218125743.png",
+    "900 Attatchments/Images/Pasted image 20250218125714.png",
+    "900 Attatchments/Images/Pasted image 20250218125649.png",
+    "900 Attatchments/Images/Pasted image 20250218125638.png",
+    "900 Attatchments/Images/Pasted image 20250218125515.png",
+    "900 Attatchments/Images/Pasted image 20250218125439.png",
+    "900 Attatchments/Images/Pasted image 20250218125350.png",
+    "900 Attatchments/Images/Pasted image 20250218125305.png",
+    "200 Neurons/22.14 About sets.md",
+    "900 Attatchments/Images/Pasted image 20250218125041.png",
+    "900 Attatchments/Images/Pasted image 20250218125021.png",
+    "200 Neurons/22.14 Tuples.md",
+    "200 Neurons/22.14  Arrays.md",
+    "200 Neurons/22.14 Source maps.md",
+    "200 Neurons/22.14 Array types.md",
+    "200 Neurons/22.14 Objects, arrays and tuples.md",
+    "200 Neurons/22.14 About decorators.md",
+    "200 Neurons/22.14 Installing and using type declaration file.md",
     "200 Neurons/22.14 About type declarations.md",
     "200 Neurons/22.14 Generic interfaces and classes.md",
-    "900 Attatchments/Images/Pasted image 20250218105611.png",
-    "900 Attatchments/Images/Pasted image 20250218105521.png",
-    "900 Attatchments/Images/Pasted image 20250218105422.png",
-    "900 Attatchments/Images/Pasted image 20250218105408.png",
-    "900 Attatchments/Images/Pasted image 20250218104827.png",
-    "900 Attatchments/Images/Pasted image 20250218104322.png",
-    "900 Attatchments/Images/Pasted image 20250218104128.png",
-    "900 Attatchments/Images/Pasted image 20250218104112.png",
-    "900 Attatchments/Images/Pasted image 20250218103957.png",
-    "900 Attatchments/Images/Pasted image 20250218103838.png",
     "200 Neurons/22.14 test.md",
     "200 Neurons/22.14 Generic functions.md",
-    "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
     "200 Neurons/22.14 Array T - annotating vs generics.md",
     "200 Neurons/22.14 What are generics.md",
     "200 Neurons/22.14 The role of async - await.md",
@@ -224,16 +232,6 @@
     "200 Neurons/22.14 Module resolution.md",
     "200 Neurons/22.14 Why use modules.md",
     "200 Neurons/22.14 Using an interface.md",
-    "200 Neurons/22.14 Class expressions.md",
-    "200 Neurons/22.14 Abstract classes.md",
-    "200 Neurons/22.14 Extending classes with interfaces.md",
-    "200 Neurons/22.14 Creating and using classes.md",
-    "200 Neurons/22.14 Constructors.md",
-    "200 Neurons/22.14 Interfaces and classes.md",
-    "200 Neurons/22.14 Extending interfaces.md",
-    "200 Neurons/22.14 Interfaces for function types.md",
-    "200 Neurons/22.14 Creating an interface.md",
-    "200 Neurons/22.14 About interfaces.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
