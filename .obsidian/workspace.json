@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Lobules/12.14 Typescript.md",
+                "file": "200 Neurons/22.14 Query parameters in TS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.14 Typescript"
+              "title": "22.14 Query parameters in TS"
+            }
+          },
+          {
+            "id": "51360137ceb0d0db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Lobules/12.5 Javascript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.5 Javascript"
+            }
+          },
+          {
+            "id": "5b08b664df600cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Neurons/23.9 Returning  pagination metadata.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23.9 Returning  pagination metadata"
             }
           }
         ],
@@ -178,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,43 +224,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "836e5958cc2995f3",
+  "active": "57afee7de9a4c296",
   "lastOpenFiles": [
+    "900 Attatchments/Images/Pasted image 20250220095207.png",
+    "200 Neurons/22.14 Type casting when consuming API.md",
+    "200 Neurons/22.14 Query parameters in TS.md",
+    "200 Neurons/23.9 Returning  pagination metadata.md",
+    "200 Neurons/23.9 Sorting collection resources.md",
+    "200 Neurons/23.9 Data shaping - creating an resuable extension method to shape data.md",
+    "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
+    "100 Lobules/12.5 Javascript.md",
+    "200 Neurons/22.5 Fetching data - fetch step by step.md",
+    "900 Attatchments/Images/Pasted image 20250220093814.png",
+    "900 Attatchments/Images/Pasted image 20250220093708.png",
+    "900 Attatchments/Images/Pasted image 20250220093051.png",
+    "900 Attatchments/Images/Pasted image 20250220092814.png",
+    "200 Neurons/22.14 Understanding promises.md",
+    "100 Lobules/12.14 Typescript.md",
+    "900 Attatchments/Images/Pasted image 20250220091803.png",
+    "900 Attatchments/Images/Pasted image 20250220091723.png",
+    "200 Neurons/22.5 Error handling -  try - catch.md",
+    "200 Neurons/22.5 Promise reaction records.md",
+    "900 Attatchments/Images/Pasted image 20250220090044.png",
+    "200 Neurons/22.5 Async - await.md",
+    "900 Attatchments/Images/Pasted image 20250220085553.png",
+    "900 Attatchments/Images/Pasted image 20250220085013.png",
+    "200 Neurons/22.5 Finally.md",
     "200 Neurons/22.14 Source maps.md",
     "900 Attatchments/Images/Pasted image 20250219125753.png",
-    "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
-    "900 Attatchments/Images/Pasted image 20250219122250.png",
-    "900 Attatchments/Images/Pasted image 20250219120421.png",
-    "100 Lobules/12.14 Typescript.md",
-    "900 Attatchments/Images/Pasted image 20250219114946.png",
     "200 Neurons/22.14 Extending classes with interfaces.md",
     "200 Neurons/22.14 Supporting JS.md",
-    "900 Attatchments/Images/Pasted image 20250219104747.png",
-    "900 Attatchments/Images/Pasted image 20250219104421.png",
-    "900 Attatchments/Images/Pasted image 20250219104121.png",
     "200 Neurons/22.12 Creating the app boiler plate.md",
     "200 Neurons/22.12 Creating a react app - index.html.md",
     "200 Neurons/22.14 Watch mode.md",
-    "900 Attatchments/Images/Pasted image 20250219094314.png",
     "200 Neurons/22.14 About maps.md",
-    "900 Attatchments/Images/Pasted image 20250218125743.png",
-    "900 Attatchments/Images/Pasted image 20250218125714.png",
     "200 Neurons/22.14 About sets.md",
     "200 Neurons/22.14 Tuples.md",
     "200 Neurons/22.14  Arrays.md",
-    "200 Neurons/22.14 Array types.md",
-    "200 Neurons/22.14 Objects, arrays and tuples.md",
-    "200 Neurons/22.14 About decorators.md",
-    "200 Neurons/22.14 Installing and using type declaration file.md",
-    "200 Neurons/22.14 About type declarations.md",
-    "200 Neurons/22.14 Generic interfaces and classes.md",
-    "200 Neurons/22.14 test.md",
-    "200 Neurons/22.14 Generic functions.md",
-    "200 Neurons/22.14 Array T - annotating vs generics.md",
-    "200 Neurons/22.14 What are generics.md",
-    "200 Neurons/22.14 The role of async - await.md",
-    "200 Neurons/22.14 Using promises.md",
-    "200 Neurons/22.14 Understanding promises.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
