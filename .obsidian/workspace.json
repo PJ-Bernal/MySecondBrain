@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/22.12 What is JSX.md",
+                "file": "200 Neurons/22.12 How to create components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.12 What is JSX"
+              "title": "22.12 How to create components"
             }
           }
         ]
@@ -183,15 +183,20 @@
   "active": "c0104fbdf099f260",
   "lastOpenFiles": [
     "100 Lobules/12.12 React.md",
+    "200 Neurons/22.12 The props object - passing props to a component.md",
+    "200 Neurons/22.12 How to create components.md",
+    "200 Neurons/22.12 What are components.md",
+    "200 Neurons/22.12 Creating a component from a root.md",
+    "200 Neurons/22.12 interfaces vs types.md",
+    "200 Neurons/22.12 Controlled components.md",
+    "200 Neurons/22.12 Where do components live.md",
+    "200 Neurons/22.12 What is JSX.md",
     "200 Neurons/22.5 How TS maps elements.md",
     "200 Neurons/22.5 ChildNodes and Children.md",
     "200 Neurons/22.14 About decorators.md",
     "100 Lobules/12.14 Typescript.md",
     "200 Neurons/23.9 Returning  pagination metadata.md",
     "200 Neurons/22.5 Add event listeners - append nodes.md",
-    "200 Neurons/22.12 What is JSX.md",
-    "200 Neurons/22.12 Creating a component from a root.md",
-    "200 Neurons/22.12 How to create components.md",
     "900 Attatchments/Images/Pasted image 20250220123516.png",
     "900 Attatchments/Images/Pasted image 20250220123402.png",
     "900 Attatchments/Images/Pasted image 20250220123320.png",
@@ -213,11 +218,6 @@
     "200 Neurons/22.5 What is DOM and BOM - window object - tree like structure - global methods and variables.md",
     "200 Neurons/22.14 Work with paginated resources.md",
     "200 Neurons/22.14 Accessing complex jsons.md",
-    "200 Neurons/22.14 Type casting when consuming API.md",
-    "200 Neurons/22.14 Consuming.md",
-    "200 Neurons/22.14 Query parameters in TS.md",
-    "200 Neurons/22.14 Progress tracking.md",
-    "200 Neurons/23.9 Sorting collection resources.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
