@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
+                "file": "200 Neurons/22.5 How TS maps elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.14 Installing TS - compiling and running TS - tsconfig.json"
+              "title": "22.5 How TS maps elements"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/22.14 Query parameters in TS.md",
+                "file": "200 Neurons/22.5 Add event listeners - append nodes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.14 Query parameters in TS"
+              "title": "22.5 Add event listeners - append nodes"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Lobules/12.5 Javascript.md",
+                "file": "200 Neurons/22.5 ChildNodes and Children.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.5 Javascript"
+              "title": "22.5 ChildNodes and Children"
             }
           },
           {
@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Returning  pagination metadata.md",
+                "file": "200 Neurons/22.14 About decorators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Returning  pagination metadata"
+              "title": "22.14 About decorators"
+            }
+          },
+          {
+            "id": "c0104fbdf099f260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Lobules/12.12 React.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.12 React"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,12 +131,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
+    "width": 288.5,
     "collapsed": true
   },
   "right": {
@@ -224,44 +237,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57afee7de9a4c296",
+  "active": "5b08b664df600cd8",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250220095207.png",
-    "200 Neurons/22.14 Type casting when consuming API.md",
-    "200 Neurons/22.14 Query parameters in TS.md",
+    "100 Lobules/12.14 Typescript.md",
     "200 Neurons/23.9 Returning  pagination metadata.md",
+    "200 Neurons/22.5 ChildNodes and Children.md",
+    "200 Neurons/22.5 Add event listeners - append nodes.md",
+    "200 Neurons/22.5 How TS maps elements.md",
+    "100 Lobules/12.12 React.md",
+    "200 Neurons/22.12 What is JSX.md",
+    "200 Neurons/22.12 Creating a component from a root.md",
+    "200 Neurons/22.12 How to create components.md",
+    "900 Attatchments/Images/Pasted image 20250220123516.png",
+    "900 Attatchments/Images/Pasted image 20250220123402.png",
+    "900 Attatchments/Images/Pasted image 20250220123320.png",
+    "900 Attatchments/Images/Pasted image 20250220123054.png",
+    "900 Attatchments/Images/Pasted image 20250220123031.png",
+    "900 Attatchments/Images/Pasted image 20250220122954.png",
+    "900 Attatchments/Images/Pasted image 20250220122658.png",
+    "900 Attatchments/Images/Pasted image 20250220122429.png",
+    "900 Attatchments/Images/Pasted image 20250220122359.png",
+    "200 Neurons/22.5 Get elements by class name.md",
+    "900 Attatchments/Images/Pasted image 20250220122136.png",
+    "200 Neurons/22.14 Working with tokens - caching.md",
+    "100 Lobules/12.5 Javascript.md",
+    "200 Neurons/22.5 Working with HTML elements.md",
+    "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
+    "200 Neurons/22.5 DOM nodes - node types - node properties - view nodes in the inspector - Node - Object - Node properties.md",
+    "200 Neurons/22.5 Traverse the DOM.md",
+    "200 Neurons/22.5 Targeting nodes - document and element selector - for( ) and foreach( ) - query selectors -.md",
+    "200 Neurons/22.5 What is DOM and BOM - window object - tree like structure - global methods and variables.md",
+    "200 Neurons/22.14 Work with paginated resources.md",
+    "200 Neurons/22.14 Accessing complex jsons.md",
+    "200 Neurons/22.14 Type casting when consuming API.md",
+    "200 Neurons/22.14 Consuming.md",
+    "200 Neurons/22.14 Query parameters in TS.md",
+    "200 Neurons/22.14 Progress tracking.md",
     "200 Neurons/23.9 Sorting collection resources.md",
     "200 Neurons/23.9 Data shaping - creating an resuable extension method to shape data.md",
-    "100 Lobules/13.9 ASP.NET Core Web API.md",
-    "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
-    "100 Lobules/12.5 Javascript.md",
-    "200 Neurons/22.5 Fetching data - fetch step by step.md",
-    "900 Attatchments/Images/Pasted image 20250220093814.png",
-    "900 Attatchments/Images/Pasted image 20250220093708.png",
-    "900 Attatchments/Images/Pasted image 20250220093051.png",
-    "900 Attatchments/Images/Pasted image 20250220092814.png",
-    "200 Neurons/22.14 Understanding promises.md",
-    "100 Lobules/12.14 Typescript.md",
-    "900 Attatchments/Images/Pasted image 20250220091803.png",
-    "900 Attatchments/Images/Pasted image 20250220091723.png",
-    "200 Neurons/22.5 Error handling -  try - catch.md",
-    "200 Neurons/22.5 Promise reaction records.md",
-    "900 Attatchments/Images/Pasted image 20250220090044.png",
-    "200 Neurons/22.5 Async - await.md",
-    "900 Attatchments/Images/Pasted image 20250220085553.png",
-    "900 Attatchments/Images/Pasted image 20250220085013.png",
-    "200 Neurons/22.5 Finally.md",
-    "200 Neurons/22.14 Source maps.md",
-    "900 Attatchments/Images/Pasted image 20250219125753.png",
-    "200 Neurons/22.14 Extending classes with interfaces.md",
-    "200 Neurons/22.14 Supporting JS.md",
-    "200 Neurons/22.12 Creating the app boiler plate.md",
-    "200 Neurons/22.12 Creating a react app - index.html.md",
-    "200 Neurons/22.14 Watch mode.md",
-    "200 Neurons/22.14 About maps.md",
-    "200 Neurons/22.14 About sets.md",
-    "200 Neurons/22.14 Tuples.md",
-    "200 Neurons/22.14  Arrays.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
