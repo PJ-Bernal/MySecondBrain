@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/22.12 How to create components.md",
+                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.12 How to create components"
+              "title": "13.9 ASP.NET Core Web API"
             }
           }
         ]
@@ -182,9 +182,13 @@
   },
   "active": "c0104fbdf099f260",
   "lastOpenFiles": [
+    "200 Neurons/23.9 Uniform Interface.md",
+    "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 The richardson maturity model.md",
+    "200 Neurons/23.9 RESTful architecture.md",
     "100 Lobules/12.12 React.md",
-    "200 Neurons/22.12 The props object - passing props to a component.md",
     "200 Neurons/22.12 How to create components.md",
+    "200 Neurons/22.12 The props object - passing props to a component.md",
     "200 Neurons/22.12 What are components.md",
     "200 Neurons/22.12 Creating a component from a root.md",
     "200 Neurons/22.12 interfaces vs types.md",
@@ -214,10 +218,6 @@
     "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
     "200 Neurons/22.5 DOM nodes - node types - node properties - view nodes in the inspector - Node - Object - Node properties.md",
     "200 Neurons/22.5 Traverse the DOM.md",
-    "200 Neurons/22.5 Targeting nodes - document and element selector - for( ) and foreach( ) - query selectors -.md",
-    "200 Neurons/22.5 What is DOM and BOM - window object - tree like structure - global methods and variables.md",
-    "200 Neurons/22.14 Work with paginated resources.md",
-    "200 Neurons/22.14 Accessing complex jsons.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
