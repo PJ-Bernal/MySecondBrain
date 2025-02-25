@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0104fbdf099f260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13.9 ASP.NET Core Web API"
-            }
-          },
-          {
             "id": "62a2157927f37494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Requiring and validation a token.md",
+                "file": "200 Neurons/22.12 Why use React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Requiring and validation a token"
+              "title": "22.12 Why use React"
             }
           }
         ]
@@ -194,26 +180,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0104fbdf099f260",
+  "active": "57afee7de9a4c296",
   "lastOpenFiles": [
-    "200 Neurons/23.9 How to add general api information.md",
-    "900 Attatchments/Images/Pasted image 20250225144815.png",
-    "900 Attatchments/Images/Pasted image 20250225144743.png",
-    "200 Neurons/23.9 XML comments on action methods.md",
-    "100 Lobules/13.9 ASP.NET Core Web API.md",
-    "200 Neurons/23.9 Ignoring warnings.md",
-    "900 Attatchments/Images/Pasted image 20250225144538.png",
-    "900 Attatchments/Images/Pasted image 20250225144517.png",
-    "900 Attatchments/Images/Pasted image 20250225144511.png",
-    "900 Attatchments/Images/Pasted image 20250225144444.png",
-    "200 Neurons/23.9 Provide sample request.md",
-    "900 Attatchments/Images/Pasted image 20250225143153.png",
-    "900 Attatchments/Images/Pasted image 20250225143101.png",
+    "100 Lobules/12.12 React.md",
+    "200 Neurons/22.12 Why use React.md",
     "200 Neurons/23.9 Requiring and validation a token.md",
-    "900 Attatchments/Images/Pasted image 20250225142916.png",
-    "200 Neurons/23.9 Data annotation improve documentation.md",
-    "900 Attatchments/Images/Pasted image 20250225142702.png",
+    "200 Neurons/23.9 Using API analyzers.md",
+    "900 Attatchments/Images/Pasted image 20250225152616.png",
+    "900 Attatchments/Images/Pasted image 20250225152556.png",
+    "900 Attatchments/Images/Pasted image 20250225152432.png",
+    "900 Attatchments/Images/Pasted image 20250225152156.png",
+    "900 Attatchments/Images/Pasted image 20250225152148.png",
+    "900 Attatchments/Images/Pasted image 20250225151935.png",
+    "900 Attatchments/Images/Pasted image 20250225151838.png",
+    "900 Attatchments/Images/Pasted image 20250225151817.png",
+    "900 Attatchments/Images/Pasted image 20250225151807.png",
+    "900 Attatchments/Images/Pasted image 20250225151355.png",
     "200 Neurons/23.9 Add swagger to the API.md",
+    "200 Neurons/23.9 Describing response for IActionResult endpoints.md",
+    "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 XML comments on action methods.md",
+    "200 Neurons/23.9 The API explorer.md",
+    "200 Neurons/23.9 How to add general api information.md",
+    "200 Neurons/23.9 Ignoring warnings.md",
+    "200 Neurons/23.9 Provide sample request.md",
+    "200 Neurons/23.9 Data annotation improve documentation.md",
     "200 Neurons/23.9 Adding swagger to an existint project.md",
     "200 Neurons/23.9 Inspecting the open api specification.md",
     "200 Neurons/23.9 About OpenAPI, Swagger and swashbuckle.md",
@@ -225,12 +216,8 @@
     "200 Neurons/23.9 Documenting authentication.md",
     "200 Neurons/23.9 Changing the default url when executing the project.md",
     "200 Neurons/23.9 Supporting different documentation version.md",
-    "200 Neurons/23.9 Describing response for IActionResult endpoints.md",
     "200 Neurons/23.9 Setting up an identity provider with Duende IdentityServer.md",
     "200 Neurons/23.9 Protecting API using access tokens.md",
-    "200 Neurons/23.9 Creating a token.md",
-    "200 Neurons/23.9 Adding a service layer.md",
-    "200 Neurons/23.9 Oauth2 and the identity provider.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
