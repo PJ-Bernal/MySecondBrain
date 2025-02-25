@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Fluent validation.md",
+                "file": "200 Neurons/23.9 Protecting API using access tokens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Fluent validation"
+              "title": "23.9 Protecting API using access tokens"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
+                "file": "200 Neurons/23.9 Requiring and validation a token.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.9 ASP.NET Core Web API"
+              "title": "23.9 Requiring and validation a token"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,44 +194,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62a2157927f37494",
+  "active": "57afee7de9a4c296",
   "lastOpenFiles": [
-    "200 Neurons/23.9 Returning data from the repo.md",
+    "200 Neurons/23.9 Requiring and validation a token.md",
+    "200 Neurons/23.9 Protecting API using access tokens.md",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 Creating a token.md",
+    "200 Neurons/23.9 Adding a service layer.md",
+    "200 Neurons/23.9 Oauth2 and the identity provider.md",
+    "900 Attatchments/Images/Pasted image 20250225110216.png",
+    "900 Attatchments/Images/Pasted image 20250225105527.png",
+    "200 Neurons/23.9 Creating a property mapping service.md",
+    "200 Neurons/23.9 Sorting collection resources.md",
+    "200 Neurons/23.9 Filtering and searching.md",
+    "200 Neurons/23.9 Passing data to the api via action parameters.md",
+    "200 Neurons/23.9 Searching through collection of resources.md",
+    "200 Neurons/23.9 Keep track of endpoints.md",
+    "200 Neurons/23.9 Authorization policies.md",
+    "900 Attatchments/Images/Pasted image 20250225092641.png",
+    "900 Attatchments/Images/Pasted image 20250225092619.png",
+    "900 Attatchments/Images/Pasted image 20250225092239.png",
+    "900 Attatchments/Images/Pasted image 20250225092212.png",
+    "900 Attatchments/Images/Pasted image 20250225092146.png",
+    "900 Attatchments/Images/Pasted image 20250225092020.png",
+    "900 Attatchments/Images/Pasted image 20250225091802.png",
+    "900 Attatchments/Images/Pasted image 20250225090722.png",
+    "200 Neurons/23.9 Token-based security.md",
+    "200 Neurons/23.9 Fluent validation.md",
+    "200 Neurons/23.9 Returning data from the repo.md",
     "200 Neurons/23.9 Repository pattern.md",
     "200 Neurons/23.9 The service layer.md",
     "200 Neurons/23.9 Validating input when updating with patch.md",
     "200 Neurons/23.9 Class-level input validation with IValidatable object.md",
     "200 Neurons/23.9 Validating input when upserting with patch.md",
-    "200 Neurons/23.9 Fluent validation.md",
     "200 Neurons/23.9 Migrations.md",
-    "900 Attatchments/Images/Pasted image 20250224150855.png",
-    "900 Attatchments/Images/Pasted image 20250224150744.png",
-    "900 Attatchments/Images/Pasted image 20250224150736.png",
-    "900 Attatchments/Images/Pasted image 20250224150703.png",
-    "900 Attatchments/Images/Pasted image 20250224150607.png",
-    "900 Attatchments/Images/Pasted image 20250224150450.png",
-    "900 Attatchments/Images/Pasted image 20250224150423.png",
-    "900 Attatchments/Images/Pasted image 20250224150342.png",
-    "900 Attatchments/Images/Pasted image 20250224150332.png",
-    "900 Attatchments/Images/Pasted image 20250224150222.png",
     "200 Neurons/23.9 Creating a db context.md",
     "200 Neurons/23.9 Creating entity classes.md",
     "200 Neurons/23.9 About EFC.md",
     "200 Neurons/23.9 The project for the notes.md",
-    "200 Neurons/23.9 Implementing slug-base retrival.md",
-    "200 Neurons/23.9 Uniform Interface.md",
-    "200 Neurons/23.9 Working with array keys and composite keys.md",
-    "200 Neurons/23.9 Upserting with put.md",
-    "200 Neurons/23.9 Folder structure.md",
-    "200 Neurons/23.9 Keep track of endpoints.md",
-    "200 Neurons/23.9 Creating a resource.md",
-    "200 Neurons/23.9 Adding routing.md",
-    "200 Neurons/23.9 About routing.md",
-    "200 Neurons/23.9 HATEOAS and content negotiation.md",
-    "200 Neurons/23.9 Taking consumer errors into account when shaping data.md",
-    "200 Neurons/23.9 Creating an action method.md",
-    "200 Neurons/23.9 Async code.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
