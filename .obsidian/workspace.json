@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "200 Neurons/23.9 Fluent validation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23.9 Fluent validation"
+            }
+          },
+          {
+            "id": "62a2157927f37494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "13.9 ASP.NET Core Web API"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,12 +68,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\":.net_web_api] fluent validation",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -180,44 +195,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0104fbdf099f260",
+  "active": "62a2157927f37494",
   "lastOpenFiles": [
-    "200 Neurons/23.9 Uniform Interface.md",
+    "200 Neurons/23.9 Returning data from the repo.md",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
-    "200 Neurons/23.9 The richardson maturity model.md",
-    "200 Neurons/23.9 RESTful architecture.md",
-    "100 Lobules/12.12 React.md",
-    "200 Neurons/22.12 How to create components.md",
-    "200 Neurons/22.12 The props object - passing props to a component.md",
-    "200 Neurons/22.12 What are components.md",
-    "200 Neurons/22.12 Creating a component from a root.md",
-    "200 Neurons/22.12 interfaces vs types.md",
-    "200 Neurons/22.12 Controlled components.md",
-    "200 Neurons/22.12 Where do components live.md",
-    "200 Neurons/22.12 What is JSX.md",
-    "200 Neurons/22.5 How TS maps elements.md",
-    "200 Neurons/22.5 ChildNodes and Children.md",
-    "200 Neurons/22.14 About decorators.md",
-    "100 Lobules/12.14 Typescript.md",
-    "200 Neurons/23.9 Returning  pagination metadata.md",
-    "200 Neurons/22.5 Add event listeners - append nodes.md",
-    "900 Attatchments/Images/Pasted image 20250220123516.png",
-    "900 Attatchments/Images/Pasted image 20250220123402.png",
-    "900 Attatchments/Images/Pasted image 20250220123320.png",
-    "900 Attatchments/Images/Pasted image 20250220123054.png",
-    "900 Attatchments/Images/Pasted image 20250220123031.png",
-    "900 Attatchments/Images/Pasted image 20250220122954.png",
-    "900 Attatchments/Images/Pasted image 20250220122658.png",
-    "900 Attatchments/Images/Pasted image 20250220122429.png",
-    "900 Attatchments/Images/Pasted image 20250220122359.png",
-    "200 Neurons/22.5 Get elements by class name.md",
-    "900 Attatchments/Images/Pasted image 20250220122136.png",
-    "200 Neurons/22.14 Working with tokens - caching.md",
-    "100 Lobules/12.5 Javascript.md",
-    "200 Neurons/22.5 Working with HTML elements.md",
-    "200 Neurons/22.14 Installing TS - compiling and running TS - tsconfig.json.md",
-    "200 Neurons/22.5 DOM nodes - node types - node properties - view nodes in the inspector - Node - Object - Node properties.md",
-    "200 Neurons/22.5 Traverse the DOM.md",
+    "200 Neurons/23.9 Repository pattern.md",
+    "200 Neurons/23.9 The service layer.md",
+    "200 Neurons/23.9 Validating input when updating with patch.md",
+    "200 Neurons/23.9 Class-level input validation with IValidatable object.md",
+    "200 Neurons/23.9 Validating input when upserting with patch.md",
+    "200 Neurons/23.9 Fluent validation.md",
+    "200 Neurons/23.9 Migrations.md",
+    "900 Attatchments/Images/Pasted image 20250224150855.png",
+    "900 Attatchments/Images/Pasted image 20250224150744.png",
+    "900 Attatchments/Images/Pasted image 20250224150736.png",
+    "900 Attatchments/Images/Pasted image 20250224150703.png",
+    "900 Attatchments/Images/Pasted image 20250224150607.png",
+    "900 Attatchments/Images/Pasted image 20250224150450.png",
+    "900 Attatchments/Images/Pasted image 20250224150423.png",
+    "900 Attatchments/Images/Pasted image 20250224150342.png",
+    "900 Attatchments/Images/Pasted image 20250224150332.png",
+    "900 Attatchments/Images/Pasted image 20250224150222.png",
+    "200 Neurons/23.9 Creating a db context.md",
+    "200 Neurons/23.9 Creating entity classes.md",
+    "200 Neurons/23.9 About EFC.md",
+    "200 Neurons/23.9 The project for the notes.md",
+    "200 Neurons/23.9 Implementing slug-base retrival.md",
+    "200 Neurons/23.9 Uniform Interface.md",
+    "200 Neurons/23.9 Working with array keys and composite keys.md",
+    "200 Neurons/23.9 Upserting with put.md",
+    "200 Neurons/23.9 Folder structure.md",
+    "200 Neurons/23.9 Keep track of endpoints.md",
+    "200 Neurons/23.9 Creating a resource.md",
+    "200 Neurons/23.9 Adding routing.md",
+    "200 Neurons/23.9 About routing.md",
+    "200 Neurons/23.9 HATEOAS and content negotiation.md",
+    "200 Neurons/23.9 Taking consumer errors into account when shaping data.md",
+    "200 Neurons/23.9 Creating an action method.md",
+    "200 Neurons/23.9 Async code.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
