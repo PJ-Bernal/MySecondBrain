@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/22.12 Why use React.md",
+                "file": "200 Neurons/22.12 Creating a react app - index.html.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.12 Why use React"
+              "title": "22.12 Creating a react app - index.html"
             }
           }
         ]
@@ -180,9 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57afee7de9a4c296",
+  "active": "62a2157927f37494",
   "lastOpenFiles": [
     "100 Lobules/12.12 React.md",
+    "200 Neurons/22.12 Setting up a react environment.md",
     "200 Neurons/22.12 Why use React.md",
     "200 Neurons/23.9 Requiring and validation a token.md",
     "200 Neurons/23.9 Using API analyzers.md",
@@ -217,7 +218,6 @@
     "200 Neurons/23.9 Changing the default url when executing the project.md",
     "200 Neurons/23.9 Supporting different documentation version.md",
     "200 Neurons/23.9 Setting up an identity provider with Duende IdentityServer.md",
-    "200 Neurons/23.9 Protecting API using access tokens.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
