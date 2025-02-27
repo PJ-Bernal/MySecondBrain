@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Support for schema variation by media type, for input.md",
+                "file": "200 Neurons/23.9 Assert on booleans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Support for schema variation by media type, for input"
+              "title": "23.9 Assert on booleans"
             }
           },
           {
-            "id": "c6b7ae67e49b28c2",
+            "id": "07950d6611565712",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Specific media types.md",
+                "file": "200 Neurons/23.9 Folder structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Specific media types"
+              "title": "23.9 Folder structure"
             }
           }
         ]
@@ -67,12 +67,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\":.net_web_api] conflict",
+                "query": "[\"tags\":.net_web_api] base",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,44 +194,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57afee7de9a4c296",
+  "active": "62a2157927f37494",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250227121909.png",
-    "900 Attatchments/Images/Pasted image 20250227121827.png",
-    "900 Attatchments/Images/Pasted image 20250227121823.png",
-    "900 Attatchments/Images/Pasted image 20250227121736.png",
-    "900 Attatchments/Images/Pasted image 20250227121714.png",
-    "200 Neurons/23.9 Supporting schema variation by media type using resolve conflicting actions for output, get methods.md",
-    "200 Neurons/23.9 Support for schema variation by media type, for input.md",
-    "900 Attatchments/Images/Pasted image 20250227121440.png",
-    "900 Attatchments/Images/Pasted image 20250227121238.png",
-    "900 Attatchments/Images/Pasted image 20250227120553.png",
-    "900 Attatchments/Images/Pasted image 20250227120551.png",
-    "900 Attatchments/Images/Pasted image 20250227120408.png",
-    "900 Attatchments/Images/Pasted image 20250227120236.png",
-    "200 Neurons/23.9 Specific media types.md",
+    "900 Attatchments/Images/Pasted image 20250227160214.png",
+    "900 Attatchments/Images/Pasted image 20250227160023.png",
+    "200 Neurons/23.9 About assertions.md",
+    "200 Neurons/23.9 Assert on booleans.md",
+    "900 Attatchments/Images/Pasted image 20250227155739.png",
+    "900 Attatchments/Images/Pasted image 20250227155715.png",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
-    "200 Neurons/23.9 Using vendor specific media type on input.md",
-    "200 Neurons/23.9 Support vendor specific media types.md",
-    "200 Neurons/23.9 Improving resource representation selection with an action constraint.md",
-    "200 Neurons/23.9 Specifying the response body type with the produces attribute.md",
-    "200 Neurons/23.9 The contract between the consumer and the server.md",
-    "200 Neurons/23.9 Specifying the request body type with the consumes attribute.md",
-    "200 Neurons/23.9 Attributes vs conventions.md",
-    "200 Neurons/23.9 Working with API conventions.md",
-    "200 Neurons/23.9 Using API analyzers.md",
-    "200 Neurons/23.9 Describing response status codes with ProducesResponseTypes.md",
-    "200 Neurons/22.12 Creating a react app - index.html.md",
-    "100 Lobules/12.12 React.md",
-    "200 Neurons/22.12 Setting up a react environment.md",
+    "200 Neurons/23.9 The arrange, act, assert pattern.md",
+    "200 Neurons/23.9 Naming guidelines for unit tests.md",
+    "900 Attatchments/Images/Pasted image 20250227154512.png",
+    "200 Neurons/23.9 Writing a unit test.md",
+    "900 Attatchments/Images/Pasted image 20250227154355.png",
+    "900 Attatchments/Images/Pasted image 20250227154138.png",
+    "900 Attatchments/Images/Pasted image 20250227154049.png",
+    "900 Attatchments/Images/Pasted image 20250227153739.png",
+    "900 Attatchments/Images/Pasted image 20250227153650.png",
+    "900 Attatchments/Images/Pasted image 20250227153559.png",
+    "200 Neurons/23.9 Adding unit test to a project.md",
+    "200 Neurons/23.9 Folder structure.md",
+    "900 Attatchments/901 Templates/23.9 Web API.md",
     "200 Neurons/22.12 Why use React.md",
-    "200 Neurons/23.9 Requiring and validation a token.md",
-    "200 Neurons/23.9 Add swagger to the API.md",
-    "200 Neurons/23.9 XML comments on action methods.md",
-    "200 Neurons/23.9 The API explorer.md",
-    "200 Neurons/23.9 How to add general api information.md",
-    "200 Neurons/23.9 Ignoring warnings.md",
-    "200 Neurons/23.9 Provide sample request.md",
+    "100 Lobules/12.12 React.md",
+    "200 Neurons/23.7.md",
+    "200 Neurons/23.9 About unit testing.md",
+    "200 Neurons/23.9 Keep track of endpoints.md",
+    "200 Neurons/23.9 The problem before DI.md",
+    "200 Neurons/23.9 Specific media types.md",
+    "200 Neurons/23.9 Data shaping - creating an resuable extension method to shape data.md",
+    "200 Neurons/23.9 Handling faults and avoiding exposing implementation details.md",
+    "200 Neurons/23.9 Implementing slug-base retrival.md",
+    "200 Neurons/23.9 Adding authenticating support to the open api specification.md",
+    "200 Neurons/23.9 Directory structure by templates.md",
+    "200 Neurons/23.9 Documenting authentication.md",
+    "200 Neurons/23.9 Creating a token.md",
+    "200 Neurons/23.9 Protecting the api through swagger.md",
+    "200 Neurons/23.9 Using information from the token in a controller.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
