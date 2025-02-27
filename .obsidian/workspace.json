@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/22.12 Creating a react app - index.html.md",
+                "file": "200 Neurons/23.9 Support for schema variation by media type, for input.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.12 Creating a react app - index.html"
+              "title": "23.9 Support for schema variation by media type, for input"
+            }
+          },
+          {
+            "id": "c6b7ae67e49b28c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Neurons/23.9 Specific media types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23.9 Specific media types"
             }
           }
         ]
@@ -41,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\":.net_web_api] swagger",
+                "query": "[\"tags\":.net_web_api] conflict",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,44 +195,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62a2157927f37494",
+  "active": "57afee7de9a4c296",
   "lastOpenFiles": [
+    "900 Attatchments/Images/Pasted image 20250227121909.png",
+    "900 Attatchments/Images/Pasted image 20250227121827.png",
+    "900 Attatchments/Images/Pasted image 20250227121823.png",
+    "900 Attatchments/Images/Pasted image 20250227121736.png",
+    "900 Attatchments/Images/Pasted image 20250227121714.png",
+    "200 Neurons/23.9 Supporting schema variation by media type using resolve conflicting actions for output, get methods.md",
+    "200 Neurons/23.9 Support for schema variation by media type, for input.md",
+    "900 Attatchments/Images/Pasted image 20250227121440.png",
+    "900 Attatchments/Images/Pasted image 20250227121238.png",
+    "900 Attatchments/Images/Pasted image 20250227120553.png",
+    "900 Attatchments/Images/Pasted image 20250227120551.png",
+    "900 Attatchments/Images/Pasted image 20250227120408.png",
+    "900 Attatchments/Images/Pasted image 20250227120236.png",
+    "200 Neurons/23.9 Specific media types.md",
+    "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 Using vendor specific media type on input.md",
+    "200 Neurons/23.9 Support vendor specific media types.md",
+    "200 Neurons/23.9 Improving resource representation selection with an action constraint.md",
+    "200 Neurons/23.9 Specifying the response body type with the produces attribute.md",
+    "200 Neurons/23.9 The contract between the consumer and the server.md",
+    "200 Neurons/23.9 Specifying the request body type with the consumes attribute.md",
+    "200 Neurons/23.9 Attributes vs conventions.md",
+    "200 Neurons/23.9 Working with API conventions.md",
+    "200 Neurons/23.9 Using API analyzers.md",
+    "200 Neurons/23.9 Describing response status codes with ProducesResponseTypes.md",
+    "200 Neurons/22.12 Creating a react app - index.html.md",
     "100 Lobules/12.12 React.md",
     "200 Neurons/22.12 Setting up a react environment.md",
     "200 Neurons/22.12 Why use React.md",
     "200 Neurons/23.9 Requiring and validation a token.md",
-    "200 Neurons/23.9 Using API analyzers.md",
-    "900 Attatchments/Images/Pasted image 20250225152616.png",
-    "900 Attatchments/Images/Pasted image 20250225152556.png",
-    "900 Attatchments/Images/Pasted image 20250225152432.png",
-    "900 Attatchments/Images/Pasted image 20250225152156.png",
-    "900 Attatchments/Images/Pasted image 20250225152148.png",
-    "900 Attatchments/Images/Pasted image 20250225151935.png",
-    "900 Attatchments/Images/Pasted image 20250225151838.png",
-    "900 Attatchments/Images/Pasted image 20250225151817.png",
-    "900 Attatchments/Images/Pasted image 20250225151807.png",
-    "900 Attatchments/Images/Pasted image 20250225151355.png",
     "200 Neurons/23.9 Add swagger to the API.md",
-    "200 Neurons/23.9 Describing response for IActionResult endpoints.md",
-    "100 Lobules/13.9 ASP.NET Core Web API.md",
     "200 Neurons/23.9 XML comments on action methods.md",
     "200 Neurons/23.9 The API explorer.md",
     "200 Neurons/23.9 How to add general api information.md",
     "200 Neurons/23.9 Ignoring warnings.md",
     "200 Neurons/23.9 Provide sample request.md",
-    "200 Neurons/23.9 Data annotation improve documentation.md",
-    "200 Neurons/23.9 Adding swagger to an existint project.md",
-    "200 Neurons/23.9 Inspecting the open api specification.md",
-    "200 Neurons/23.9 About OpenAPI, Swagger and swashbuckle.md",
-    "200 Neurons/23.9 Supporting authentication with HttpRepl.md",
-    "200 Neurons/23.9 Selecting the template - the project structure.md",
-    "200 Neurons/23.9 HATEOAS and content negotiation.md",
-    "200 Neurons/23.9 Supporting patch.md",
-    "200 Neurons/23.9 Updating the resource.md",
-    "200 Neurons/23.9 Documenting authentication.md",
-    "200 Neurons/23.9 Changing the default url when executing the project.md",
-    "200 Neurons/23.9 Supporting different documentation version.md",
-    "200 Neurons/23.9 Setting up an identity provider with Duende IdentityServer.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
