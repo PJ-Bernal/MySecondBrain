@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Assert on booleans.md",
+                "file": "200 Neurons/23.9 Assert on events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Assert on booleans"
-            }
-          },
-          {
-            "id": "07950d6611565712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Neurons/23.9 Folder structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23.9 Folder structure"
+              "title": "23.9 Assert on events"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\":.net_web_api] base",
+                "query": "[\"tags\":.net_web_api] event",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -88,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,42 +183,42 @@
   },
   "active": "62a2157927f37494",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250227160214.png",
-    "900 Attatchments/Images/Pasted image 20250227160023.png",
-    "200 Neurons/23.9 About assertions.md",
-    "200 Neurons/23.9 Assert on booleans.md",
-    "900 Attatchments/Images/Pasted image 20250227155739.png",
-    "900 Attatchments/Images/Pasted image 20250227155715.png",
+    "900 Attatchments/Images/Pasted image 20250228111225.png",
+    "900 Attatchments/Images/Pasted image 20250228111201.png",
+    "900 Attatchments/Images/Pasted image 20250228111057.png",
+    "900 Attatchments/Images/Pasted image 20250228111050.png",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
-    "200 Neurons/23.9 The arrange, act, assert pattern.md",
-    "200 Neurons/23.9 Naming guidelines for unit tests.md",
-    "900 Attatchments/Images/Pasted image 20250227154512.png",
-    "200 Neurons/23.9 Writing a unit test.md",
-    "900 Attatchments/Images/Pasted image 20250227154355.png",
-    "900 Attatchments/Images/Pasted image 20250227154138.png",
-    "900 Attatchments/Images/Pasted image 20250227154049.png",
-    "900 Attatchments/Images/Pasted image 20250227153739.png",
-    "900 Attatchments/Images/Pasted image 20250227153650.png",
-    "900 Attatchments/Images/Pasted image 20250227153559.png",
-    "200 Neurons/23.9 Adding unit test to a project.md",
-    "200 Neurons/23.9 Folder structure.md",
+    "200 Neurons/23.9 Logging exceptions.md",
     "900 Attatchments/901 Templates/23.9 Web API.md",
+    "200 Neurons/23.9 Assert on events.md",
     "200 Neurons/22.12 Why use React.md",
     "100 Lobules/12.12 React.md",
+    "200 Neurons/22.4 Rake.md",
+    "200 Neurons/23.9 Assert on exceptions.md",
+    "900 Attatchments/Images/Pasted image 20250228110723.png",
+    "900 Attatchments/Images/Pasted image 20250228110651.png",
+    "200 Neurons/23.9 Repository implementation with test data.md",
+    "900 Attatchments/Images/Pasted image 20250228110459.png",
+    "900 Attatchments/Images/Pasted image 20250228110411.png",
+    "900 Attatchments/Images/Pasted image 20250228110351.png",
+    "900 Attatchments/Images/Pasted image 20250228110311.png",
+    "900 Attatchments/Images/Pasted image 20250228110156.png",
+    "200 Neurons/23.9 Asserting async code.md",
+    "200 Neurons/23.9 Asserting on arrays and collections.md",
+    "200 Neurons/23.9 Asserting strings.md",
+    "200 Neurons/23.9 Asserting on floating point with precision.md",
+    "200 Neurons/23.9 Asserting numeric values.md",
+    "200 Neurons/23.9 Folder structure.md",
+    "200 Neurons/23.9 Assert on booleans.md",
+    "200 Neurons/23.9 About assertions.md",
+    "200 Neurons/23.9 The arrange, act, assert pattern.md",
+    "200 Neurons/23.9 Naming guidelines for unit tests.md",
+    "200 Neurons/23.9 Writing a unit test.md",
+    "200 Neurons/23.9 Adding unit test to a project.md",
     "200 Neurons/23.7.md",
     "200 Neurons/23.9 About unit testing.md",
     "200 Neurons/23.9 Keep track of endpoints.md",
     "200 Neurons/23.9 The problem before DI.md",
-    "200 Neurons/23.9 Specific media types.md",
-    "200 Neurons/23.9 Data shaping - creating an resuable extension method to shape data.md",
-    "200 Neurons/23.9 Handling faults and avoiding exposing implementation details.md",
-    "200 Neurons/23.9 Implementing slug-base retrival.md",
-    "200 Neurons/23.9 Adding authenticating support to the open api specification.md",
-    "200 Neurons/23.9 Directory structure by templates.md",
-    "200 Neurons/23.9 Documenting authentication.md",
-    "200 Neurons/23.9 Creating a token.md",
-    "200 Neurons/23.9 Protecting the api through swagger.md",
-    "200 Neurons/23.9 Using information from the token in a controller.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
