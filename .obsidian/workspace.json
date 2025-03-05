@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Testing with httpContext.Features.md",
+                "file": "200 Neurons/23.9 Testing with http context user.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Testing with httpContext.Features"
+              "title": "23.9 Testing with http context user"
             }
           },
           {
@@ -197,20 +197,22 @@
   },
   "active": "62a2157927f37494",
   "lastOpenFiles": [
-    "200 Neurons/23.9 Testing with http context.md",
+    "900 Attatchments/Images/Pasted image 20250305113136.png",
+    "900 Attatchments/Images/Pasted image 20250305113120.png",
+    "900 Attatchments/Images/Pasted image 20250305113048.png",
+    "900 Attatchments/Images/Pasted image 20250305112949.png",
+    "900 Attatchments/Images/Pasted image 20250305112928.png",
+    "900 Attatchments/Images/Pasted image 20250305112742.png",
+    "900 Attatchments/Images/Pasted image 20250305112642.png",
+    "900 Attatchments/Images/Pasted image 20250305112526.png",
+    "900 Attatchments/Images/Pasted image 20250305112511.png",
+    "900 Attatchments/Images/Pasted image 20250305112433.png",
+    "900 Attatchments/Images/Pasted image 20250305111408.png",
+    "200 Neurons/23.9 Testing with http context user.md",
     "200 Neurons/23.9 Testing with httpContext.Features.md",
+    "200 Neurons/23.9 Testing with http context.md",
     "200 Neurons/23.9 Testing validation and model state.md",
-    "900 Attatchments/Images/Pasted image 20250305103712.png",
-    "900 Attatchments/Images/Pasted image 20250305103648.png",
-    "900 Attatchments/Images/Pasted image 20250305103603.png",
-    "900 Attatchments/Images/Pasted image 20250305103416.png",
-    "900 Attatchments/Images/Pasted image 20250305103341.png",
-    "900 Attatchments/Images/Pasted image 20250305103241.png",
-    "900 Attatchments/Images/Pasted image 20250305102935.png",
-    "900 Attatchments/Images/Pasted image 20250305102921.png",
-    "900 Attatchments/Images/Pasted image 20250305102843.png",
     "200 Neurons/23.9 Dealing with auto mapper dependency.md",
-    "900 Attatchments/Images/Pasted image 20250305102401.png",
     "200 Neurons/23.9 Combining controller action asserts in one unit test and testing mapping code.md",
     "200 Neurons/23.9 Verifying model content.md",
     "200 Neurons/23.9 Verifying action result types.md",
@@ -231,8 +233,6 @@
     "200 Neurons/23.9 Testing theory with strong.-type test data.md",
     "200 Neurons/23.9 Testing theory with class data.md",
     "200 Neurons/23.9 Testing theories with member data.md",
-    "200 Neurons/23.9 Testing theory with inline data.md",
-    "200 Neurons/23.9 About data-driven test.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
