@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Mocking an interface.md",
+                "file": "200 Neurons/23.9 Verifying action result types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Mocking an interface"
+              "title": "23.9 Verifying action result types"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Mocks.md",
+                "file": "100 Lobules/13.9 ASP.NET Core Web API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Mocks"
+              "title": "13.9 ASP.NET Core Web API"
             }
           }
         ]
@@ -197,21 +197,26 @@
   },
   "active": "62a2157927f37494",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250305081104.png",
-    "900 Attatchments/Images/Pasted image 20250305080910.png",
-    "900 Attatchments/Images/Pasted image 20250305080900.png",
-    "900 Attatchments/Images/Pasted image 20250305080443.png",
-    "900 Attatchments/Images/Pasted image 20250305080405.png",
-    "900 Attatchments/Images/Pasted image 20250305080316.png",
-    "200 Neurons/23.9 Configuring mock object return values.md",
-    "200 Neurons/23.9 Mocking an interface.md",
-    "900 Attatchments/Images/Pasted image 20250305080130.png",
-    "900 Attatchments/Images/Pasted image 20250305080029.png",
-    "900 Attatchments/Images/Pasted image 20250305075931.png",
-    "900 Attatchments/Images/Pasted image 20250305075833.png",
-    "900 Attatchments/Images/Pasted image 20250305075655.png",
-    "200 Neurons/23.9 Mocks.md",
+    "900 Attatchments/Images/Pasted image 20250305093808.png",
+    "900 Attatchments/Images/Pasted image 20250305093329.png",
+    "900 Attatchments/Images/Pasted image 20250305093314.png",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 The arrange, act, assert pattern.md",
+    "200 Neurons/23.9 Mocks.md",
+    "200 Neurons/23.9 Verifying action result types.md",
+    "900 Attatchments/Images/Pasted image 20250305092944.png",
+    "900 Attatchments/Images/Pasted image 20250305092629.png",
+    "900 Attatchments/Images/Pasted image 20250305092321.png",
+    "900 Attatchments/Images/Pasted image 20250305091846.png",
+    "900 Attatchments/Images/Pasted image 20250305091829.png",
+    "900 Attatchments/Images/Pasted image 20250305091805.png",
+    "200 Neurons/23.9 Testing controllers.md",
+    "900 Attatchments/Images/Pasted image 20250305090929.png",
+    "900 Attatchments/Images/Pasted image 20250305090640.png",
+    "200 Neurons/23.9 Deciding what to unit test.md",
+    "200 Neurons/23.9 Mocking async code.md",
+    "200 Neurons/23.9 Mocking an interface.md",
+    "200 Neurons/23.9 Configuring mock object return values.md",
     "200 Neurons/23.9 Setting up test and sharing test context.md",
     "200 Neurons/23.9 Unit testing with http client.md",
     "200 Neurons/23.9 Unit testing with EFC.md",
@@ -228,11 +233,6 @@
     "200 Neurons/23.9 Integrating the context with the DI.md",
     "200 Neurons/23.9 Share context with collection fixture.md",
     "200 Neurons/23.9 Share context with class fixture.md",
-    "200 Neurons/23.9 Sharing context with the constructor and dispose approach.md",
-    "200 Neurons/23.9 Asserting in private methods.md",
-    "200 Neurons/23.9 Asserting on object types.md",
-    "200 Neurons/23.9 Assert on events.md",
-    "200 Neurons/23.9 Logging exceptions.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
