@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Unit testing with http client.md",
+                "file": "200 Neurons/23.9 Configuring mock object return values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Unit testing with http client"
+              "title": "23.9 Configuring mock object return values"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Setting up test and sharing test context.md",
+                "file": "200 Neurons/23.9 Mocks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Setting up test and sharing test context"
+              "title": "23.9 Mocks"
             }
           }
         ]
@@ -197,21 +197,24 @@
   },
   "active": "62a2157927f37494",
   "lastOpenFiles": [
+    "900 Attatchments/Images/Pasted image 20250304173222.png",
+    "200 Neurons/23.9 Mocks.md",
+    "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 Setting up test and sharing test context.md",
+    "200 Neurons/23.9 Configuring mock object return values.md",
+    "900 Attatchments/Images/Pasted image 20250304172645.png",
+    "900 Attatchments/Images/Pasted image 20250304172620.png",
+    "900 Attatchments/Images/Pasted image 20250304172350.png",
+    "900 Attatchments/Images/Pasted image 20250304171509.png",
+    "900 Attatchments/Images/Pasted image 20250304171431.png",
+    "900 Attatchments/Images/Pasted image 20250304171141.png",
+    "900 Attatchments/Images/Pasted image 20250304171111.png",
+    "200 Neurons/23.9 Unit testing with http client.md",
     "900 Attatchments/Images/Pasted image 20250304154435.png",
     "900 Attatchments/Images/Pasted image 20250304154359.png",
     "900 Attatchments/Images/Pasted image 20250304154341.png",
-    "900 Attatchments/Images/Pasted image 20250304154157.png",
-    "900 Attatchments/Images/Pasted image 20250304153949.png",
-    "900 Attatchments/Images/Pasted image 20250304153911.png",
-    "900 Attatchments/Images/Pasted image 20250304153735.png",
-    "900 Attatchments/Images/Pasted image 20250304153622.png",
-    "900 Attatchments/Images/Pasted image 20250304152145.png",
-    "900 Attatchments/Images/Pasted image 20250304151908.png",
-    "900 Attatchments/Images/Pasted image 20250304151204.png",
     "200 Neurons/23.9 Unit testing with EFC.md",
-    "200 Neurons/23.9 Unit testing with http client.md",
     "200 Neurons/23.9 Isolatin approaches.md",
-    "100 Lobules/13.9 ASP.NET Core Web API.md",
     "200 Neurons/23.9 Getting test cases from an external resource.md",
     "200 Neurons/23.9 Testing theory with strong.-type test data.md",
     "200 Neurons/23.9 Testing theory with class data.md",
@@ -224,15 +227,12 @@
     "200 Neurons/23.9 Integrating the context with the DI.md",
     "200 Neurons/23.9 Share context with collection fixture.md",
     "200 Neurons/23.9 Share context with class fixture.md",
-    "200 Neurons/23.9 Setting up test and sharing test context.md",
     "200 Neurons/23.9 Sharing context with the constructor and dispose approach.md",
     "200 Neurons/23.9 Asserting in private methods.md",
     "200 Neurons/23.9 Asserting on object types.md",
     "200 Neurons/23.9 Assert on events.md",
     "200 Neurons/23.9 Logging exceptions.md",
     "900 Attatchments/901 Templates/23.9 Web API.md",
-    "200 Neurons/22.12 Why use React.md",
-    "100 Lobules/12.12 React.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
