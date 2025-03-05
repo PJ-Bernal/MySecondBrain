@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Configuring mock object return values.md",
+                "file": "200 Neurons/23.9 Mocking an interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Configuring mock object return values"
+              "title": "23.9 Mocking an interface"
             }
           },
           {
@@ -197,21 +197,22 @@
   },
   "active": "62a2157927f37494",
   "lastOpenFiles": [
+    "900 Attatchments/Images/Pasted image 20250305081104.png",
+    "900 Attatchments/Images/Pasted image 20250305080910.png",
+    "900 Attatchments/Images/Pasted image 20250305080900.png",
+    "900 Attatchments/Images/Pasted image 20250305080443.png",
+    "900 Attatchments/Images/Pasted image 20250305080405.png",
+    "900 Attatchments/Images/Pasted image 20250305080316.png",
+    "200 Neurons/23.9 Configuring mock object return values.md",
+    "200 Neurons/23.9 Mocking an interface.md",
     "900 Attatchments/Images/Pasted image 20250305080130.png",
     "900 Attatchments/Images/Pasted image 20250305080029.png",
     "900 Attatchments/Images/Pasted image 20250305075931.png",
     "900 Attatchments/Images/Pasted image 20250305075833.png",
     "900 Attatchments/Images/Pasted image 20250305075655.png",
-    "900 Attatchments/Images/Pasted image 20250305075355.png",
-    "900 Attatchments/Images/Pasted image 20250305075154.png",
-    "900 Attatchments/Images/Pasted image 20250305075133.png",
-    "900 Attatchments/Images/Pasted image 20250305074956.png",
-    "900 Attatchments/Images/Pasted image 20250305074614.png",
-    "900 Attatchments/Images/Pasted image 20250305074311.png",
     "200 Neurons/23.9 Mocks.md",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
     "200 Neurons/23.9 Setting up test and sharing test context.md",
-    "200 Neurons/23.9 Configuring mock object return values.md",
     "200 Neurons/23.9 Unit testing with http client.md",
     "200 Neurons/23.9 Unit testing with EFC.md",
     "200 Neurons/23.9 Isolatin approaches.md",
@@ -232,7 +233,6 @@
     "200 Neurons/23.9 Asserting on object types.md",
     "200 Neurons/23.9 Assert on events.md",
     "200 Neurons/23.9 Logging exceptions.md",
-    "900 Attatchments/901 Templates/23.9 Web API.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
