@@ -13,12 +13,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Mitigating XSS attacks.md",
+                "file": "200 Neurons/23.9 About token authentication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Mitigating XSS attacks"
+              "title": "23.9 About token authentication"
+            }
+          },
+          {
+            "id": "57972d8841fb2801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Neurons/23.9 Verifying the key with custom middleware.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23.9 Verifying the key with custom middleware"
+            }
+          },
+          {
+            "id": "f5e18d4d7f86685c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Neurons/23.9 About OAuth and OpenID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23.9 About OAuth and OpenID"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f862c87c34375f88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e6522249e2f04a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Neurons/23.9 Creating a token.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23.9 Creating a token"
             }
           }
         ]
@@ -181,25 +230,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9352b85cf0b5b8e5",
+  "active": "57afee7de9a4c296",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250306090404.png",
-    "900 Attatchments/Images/Pasted image 20250306090349.png",
-    "900 Attatchments/Images/Pasted image 20250306090342.png",
-    "900 Attatchments/Images/Pasted image 20250306090315.png",
-    "900 Attatchments/Images/Pasted image 20250306090302.png",
-    "900 Attatchments/Images/Pasted image 20250306090224.png",
-    "200 Neurons/23.9 Implementing cookie security.md",
+    "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 Token-based security.md",
+    "200 Neurons/23.9 Oauth2 and the identity provider.md",
+    "900 Attatchments/Images/Pasted image 20250306113145.png",
+    "200 Neurons/23.9 About OAuth and OpenID.md",
+    "200 Neurons/23.9 Creating a token.md",
+    "900 Attatchments/Images/Pasted image 20250306111752.png",
+    "900 Attatchments/Images/Pasted image 20250306111703.png",
+    "200 Neurons/23.9 Requiring and validation a token.md",
+    "900 Attatchments/Images/Pasted image 20250306111333.png",
+    "900 Attatchments/Images/Pasted image 20250306110733.png",
+    "900 Attatchments/Images/Pasted image 20250306110225.png",
+    "900 Attatchments/Images/Pasted image 20250306110217.png",
+    "900 Attatchments/Images/Pasted image 20250306110028.png",
+    "900 Attatchments/Images/Pasted image 20250306105702.png",
+    "900 Attatchments/Images/Pasted image 20250306105414.png",
+    "200 Neurons/23.9 About token authentication.md",
+    "200 Neurons/23.9 Verifying the key with an authorization filter.md",
+    "200 Neurons/23.9 Verifying the key with custom middleware.md",
+    "200 Neurons/23.9 About API keys.md",
     "200 Neurons/23.9 Mitigating XSS attacks.md",
-    "900 Attatchments/Images/Pasted image 20250306085820.png",
-    "900 Attatchments/Images/Pasted image 20250306085801.png",
-    "900 Attatchments/Images/Pasted image 20250306085628.png",
-    "900 Attatchments/Images/Pasted image 20250306085559.png",
-    "900 Attatchments/Images/Pasted image 20250306085507.png",
+    "200 Neurons/23.9 Implementing cookie security.md",
     "200 Neurons/23.9 Cookie configuration and security issues.md",
     "200 Neurons/23.9 Implementing cookie authentication.md",
     "200 Neurons/23.9 Authentication with cookies.md",
-    "100 Lobules/13.9 ASP.NET Core Web API.md",
     "200 Neurons/23.9 About authentication.md",
     "200 Neurons/23.9 Verifying action result types.md",
     "Untitled.canvas",
@@ -211,15 +268,6 @@
     "200 Neurons/23.9 Testing with httpContext.Features.md",
     "200 Neurons/23.9 Testing with http context.md",
     "200 Neurons/23.9 Testing validation and model state.md",
-    "200 Neurons/23.9 Dealing with auto mapper dependency.md",
-    "200 Neurons/23.9 Combining controller action asserts in one unit test and testing mapping code.md",
-    "200 Neurons/23.9 Verifying model content.md",
-    "200 Neurons/23.9 Verifying model types.md",
-    "200 Neurons/23.9 The arrange, act, assert pattern.md",
-    "200 Neurons/23.9 Mocks.md",
-    "200 Neurons/23.9 Testing controllers.md",
-    "200 Neurons/23.9 Deciding what to unit test.md",
-    "200 Neurons/23.9 Mocking async code.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
