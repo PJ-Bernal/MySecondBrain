@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da4614cafe7d55be",
+        "id": "fad18de28abcb76f",
         "type": "tabs",
         "children": [
           {
-            "id": "62a2157927f37494",
+            "id": "9352b85cf0b5b8e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Neurons/23.9 Unit testing service registrations.md",
+                "file": "200 Neurons/23.9 Mitigating XSS attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.9 Unit testing service registrations"
-            }
-          },
-          {
-            "id": "0aef3de966470406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Neurons/23.9 Verifying action result types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23.9 Verifying action result types"
+              "title": "23.9 Mitigating XSS attacks"
             }
           }
         ]
@@ -195,22 +181,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62a2157927f37494",
+  "active": "9352b85cf0b5b8e5",
   "lastOpenFiles": [
-    "900 Attatchments/Images/Pasted image 20250305125232.png",
-    "900 Attatchments/Images/Pasted image 20250305125222.png",
-    "900 Attatchments/Images/Pasted image 20250305125136.png",
-    "900 Attatchments/Images/Pasted image 20250305124951.png",
-    "900 Attatchments/Images/Pasted image 20250305124707.png",
-    "900 Attatchments/Images/Pasted image 20250305124637.png",
+    "900 Attatchments/Images/Pasted image 20250306090404.png",
+    "900 Attatchments/Images/Pasted image 20250306090349.png",
+    "900 Attatchments/Images/Pasted image 20250306090342.png",
+    "900 Attatchments/Images/Pasted image 20250306090315.png",
+    "900 Attatchments/Images/Pasted image 20250306090302.png",
+    "900 Attatchments/Images/Pasted image 20250306090224.png",
+    "200 Neurons/23.9 Implementing cookie security.md",
+    "200 Neurons/23.9 Mitigating XSS attacks.md",
+    "900 Attatchments/Images/Pasted image 20250306085820.png",
+    "900 Attatchments/Images/Pasted image 20250306085801.png",
+    "900 Attatchments/Images/Pasted image 20250306085628.png",
+    "900 Attatchments/Images/Pasted image 20250306085559.png",
+    "900 Attatchments/Images/Pasted image 20250306085507.png",
+    "200 Neurons/23.9 Cookie configuration and security issues.md",
+    "200 Neurons/23.9 Implementing cookie authentication.md",
+    "200 Neurons/23.9 Authentication with cookies.md",
     "100 Lobules/13.9 ASP.NET Core Web API.md",
+    "200 Neurons/23.9 About authentication.md",
+    "200 Neurons/23.9 Verifying action result types.md",
+    "Untitled.canvas",
     "200 Neurons/23.9 Unit testing service registrations.md",
     "200 Neurons/23.9 Unit testing filters.md",
-    "900 Attatchments/Images/Pasted image 20250305124004.png",
-    "900 Attatchments/Images/Pasted image 20250305123935.png",
-    "900 Attatchments/Images/Pasted image 20250305123856.png",
-    "900 Attatchments/Images/Pasted image 20250305123452.png",
-    "900 Attatchments/Images/Pasted image 20250305123407.png",
     "200 Neurons/23.9 Unit testing middleware.md",
     "200 Neurons/23.9 Testing with http client calls.md",
     "200 Neurons/23.9 Testing with http context user.md",
@@ -220,19 +214,12 @@
     "200 Neurons/23.9 Dealing with auto mapper dependency.md",
     "200 Neurons/23.9 Combining controller action asserts in one unit test and testing mapping code.md",
     "200 Neurons/23.9 Verifying model content.md",
-    "200 Neurons/23.9 Verifying action result types.md",
     "200 Neurons/23.9 Verifying model types.md",
     "200 Neurons/23.9 The arrange, act, assert pattern.md",
     "200 Neurons/23.9 Mocks.md",
     "200 Neurons/23.9 Testing controllers.md",
     "200 Neurons/23.9 Deciding what to unit test.md",
     "200 Neurons/23.9 Mocking async code.md",
-    "200 Neurons/23.9 Mocking an interface.md",
-    "200 Neurons/23.9 Configuring mock object return values.md",
-    "200 Neurons/23.9 Setting up test and sharing test context.md",
-    "200 Neurons/23.9 Unit testing with http client.md",
-    "200 Neurons/23.9 Unit testing with EFC.md",
-    "200 Neurons/23.9 Isolatin approaches.md",
     "MySecondBrain",
     "Tracker.canvas",
     "Untitled 1.canvas",
